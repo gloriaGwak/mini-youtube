@@ -1,0 +1,856 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "ucg-6-R9aUchfTKJiNb5bq0mulE",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "AU",
+    "pageInfo": {
+        "totalResults": 7684,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IHqtKxSYUxD3FJvYNik--dy2Jps",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-02T11:36:20Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "드림코딩",
+                "description": "모든 드림코더분들이 개발자로 성장해 나가고 꿈을 이루는 여정에 함께 할 채널입니다. ❝Don't forget to code your dream 여러분들의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_n_8hS5BGHDs1aNbljYPCJOP-lPUAtOIbTsg2AqjWyyDt4=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_n_8hS5BGHDs1aNbljYPCJOP-lPUAtOIbTsg2AqjWyyDt4=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_n_8hS5BGHDs1aNbljYPCJOP-lPUAtOIbTsg2AqjWyyDt4=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-02T11:36:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mVQAm6gxjpB3crjzz3QhSuwFsFI",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLv2d7VI9OotSm-6vq7Mg3plBylJjEIDR8"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-08T23:42:01Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "엘리의 개발 이야기 👩🏻‍💻",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-08T23:42:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "njw_w1o4kKJ6BfuqkVXH_qLWUTM",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-31T13:36:02Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "자바스크립트 기초 강의 (ES5+): 같이 노트를 작성하며 배워요 📒",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-31T13:36:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-wPpkcEaCtF8nNYYmxSDgsXDg4k",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-29T13:12:52Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "프론트엔드 강의 - 프론트엔드 개발자 되기 입문편⭐️ (개념 + 클론코딩)",
+                "description": "HTML, CSS, Javascript.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-29T13:12:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x-1AanvB5E2lMUXavY6dBjgL-Ys",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLOJj8cVYZwOFqyBMYAXPBUB5krYuClX9J"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-10T13:46:23Z",
+                "channelId": "UCx07cz9bmGbiXTZ8p9RdcKA",
+                "title": "드림코딩by엘리",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1Lbr29tzAA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1Lbr29tzAA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1Lbr29tzAA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WCC,WEA사탄의회불지옥",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-10T13:46:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "da-_ICBZprQTpYVXS70GJbzH8gE",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLbD3D9Q9g5eDHKg60hRw_vZTLgNlLtPVS"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-17T07:03:39Z",
+                "channelId": "UCMdEqiWw1tjm8I9aQqdBU7w",
+                "title": "FrontEnd(드림코딩 엘리)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bS9yTI2fC0w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bS9yTI2fC0w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bS9yTI2fC0w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "주병찬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-17T07:03:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vtcjdkdHrTpxSyUESxUlW6p_qfU",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLR87B5D2Xa8lQje8MJAApNkTx_p3p0ix2"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-03T11:52:10Z",
+                "channelId": "UCdYR4qIq8HucpN-P8Yq1HSQ",
+                "title": "엘리 드림코딩",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HBGN-jZDUrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HBGN-jZDUrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HBGN-jZDUrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "유혜인",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-03T11:52:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PfSpyJwkK2i8aDEhjo9pKpMU-pU",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLRmsbBgKJUGDO1R9EHKV9_Q_81np54lCy"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-20T14:24:00Z",
+                "channelId": "UCvGRBqbEM9UCVzMnwE7PYxg",
+                "title": "드림코딩-html",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i0FN-OwJ7QI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i0FN-OwJ7QI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i0FN-OwJ7QI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지명智明",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-20T14:24:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9FJizQYo5MtXKR6P97mRAVgQukA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bUY3wNjcVMk"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-09T08:52:26Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "개발자와 리뷰어의 기나긴 싸움 😈",
+                "description": "개발 실력 향상에 크게 기여하는 코드 리뷰! 작성자의 리뷰어의 관점에서 어떻게 하면 좋을지 꿀팁 다섯가지! 정리해 봅니다. (↙ 자세한 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bUY3wNjcVMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bUY3wNjcVMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bUY3wNjcVMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-09T08:52:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ezGVgnd8xAhbe4BUz16QvRKXNlI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JtduKIxBn4w"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-13T05:08:26Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "맥북 추천 무료 앱 8가지 + 크롬 브라우저 익스텐션 1가지",
+                "description": "맥북을 사면 꼭 설치하는 무료 앱중 저의 최애 완소 8개 앱들과 크롬 브라우저에서 쓰면 좋은 익스텐션 1가지를 소개해 드려요 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JtduKIxBn4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JtduKIxBn4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JtduKIxBn4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-13T05:08:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CnWMhpVZBvxfdfPy-K08T4SkPCI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0Emq5FypiMM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-31T10:09:37Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "CI/CD 5분 개념 정리 (현업에서 쓰는 개발 프로세스)",
+                "description": "현업에서 사용하고 있는 효율적인 개발 프로세스 CI/CD란 무엇인지 개념을 정리 하면서 개발팁도 알아볼께요 (↙ 자세한 내용)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Emq5FypiMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Emq5FypiMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Emq5FypiMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-31T10:09:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kGHLurosokjESTMQDVIFYKjbIF0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nxi1EXmPHRs"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-06T08:07:36Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "CSS Grid 완전 정리 끝판왕 😎",
+                "description": "CSS Grid 어렵다면! 이번 영상에서 확실하게 정리해 보세요 (↙ 자세한 내용). 풀스택 개발 로드맵 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nxi1EXmPHRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nxi1EXmPHRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nxi1EXmPHRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-06T08:07:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "89unsvlwWn2hBMICzRjRZbWQCAo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9aZZIVeb5lQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-25T09:01:01Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "AI가 개발자를 대체한다😭?!",
+                "description": "AI가 코딩까지 알아서 척척! 개발자 커리어 이대로 안전할까요? 이제 막 공부하기 시작한 학생인데.. 계속 공부하는게 맞을까요?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9aZZIVeb5lQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9aZZIVeb5lQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9aZZIVeb5lQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-25T09:01:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QkgfYuaepPyTlLGgn1manuCFbNU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LXJhA3VWXFA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-15T08:13:26Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "도커 한방에 정리 🐳 (모든 개발자들이 배워보고 싶어 하는 툴!) + 실습",
+                "description": "도커 많이 들어 보셨죠? 이번 영상에서 개념 정리 뿐만 아니라 실습을 통해 도커와 친해져 볼께요! (↙ 자세한 내용). 풀스택 개발 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LXJhA3VWXFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LXJhA3VWXFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LXJhA3VWXFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-15T08:13:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kRkwQNxFWerMIb-w_SirJUBPKFg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "okHGRlgR8ps"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-07T08:53:35Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "자료구조와 알고리즘 그리고 코딩테스트?",
+                "description": "자료구조와 알고리즘은 꼭 공부 해야 하는 걸까요? 프론트엔드 개발자도 자료구조와 알고리즘을 공부 해야 하나요? 코딩 테스트 문제 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/okHGRlgR8ps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/okHGRlgR8ps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/okHGRlgR8ps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-07T08:53:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RmkI4qg2Hq27kPd2QPrgTp3pzpk",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL4oFmB91R7fqYKarmm5mjEMCB1H1vJ-BE"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-26T02:47:12Z",
+                "channelId": "UCEHf6RiMbMWWiNvyOm2KirA",
+                "title": "드림코딩 엘리",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김동영",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-26T02:47:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MkVIRwKrN2qwk6GZJ5eyp8KLA7I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iZ9csAfU5Os"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-09T10:24:30Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "서버사이드 렌더링 (개발자라면 상식으로 알고 있어야 하는 개념 정리 ⭐️)",
+                "description": "클라이언트 사이드 렌더링(CSR)과 서버사이드 렌더링(SSR) 요즘 많이 들어 보셨죠? 도대체 이 아이들은 무엇인지, 우리가 어떤 점을 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iZ9csAfU5Os/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iZ9csAfU5Os/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iZ9csAfU5Os/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-09T10:24:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IPbkgFRUqhmE_IgavuVdpfSjv3I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s1vpVCrT8f4"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-09T10:01:07Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "자바스크립트 11. 비동기 처리의 시작 콜백 이해하기, 콜백 지옥 체험 😱 JavaScript Callback | 프론트엔드 개발자 입문편 (JavaScript ES6)",
+                "description": "자바스크립트 비동기 처리를 위한 그 출발점, 콜백에 대해 정확하게 이해하고, 두가지 종류의 콜백과 콜백지옥은 무엇인지 한번 예제를 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s1vpVCrT8f4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s1vpVCrT8f4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s1vpVCrT8f4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-09T10:01:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2gbKP50vDZyfXB751MWsPbhD5HE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7neASrWEFEM"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-15T11:15:00Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "CSS Flexbox 완전 정리. 포트폴리오 만드는 날까지! | 프론트엔드 개발자 입문편: HTML, CSS, Javascript",
+                "description": "Flexbox만 잘 이해하셔도 이제 본격적으로 웹사이트의 구조를 만들 수 있어요 ❤️ (↙ 자세한 내용). 풀스택 개발 로드맵 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7neASrWEFEM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7neASrWEFEM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7neASrWEFEM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-15T11:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Wk8BRNADiNscT6gUwx4q8LjKAzQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cY0JxzENBJg"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-23T07:55:36Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "Vim 제대로 가르쳐 줌 🤓 (개발자라면 한번쯤 꼭 쓴다는 Vim)",
+                "description": "개발자라면 알게 모르게 많이 사용하게 되는 Vim, 이왕 사용하는거 잘 사용해봅시다! 우리의 생산력을 높일 수 있는 Vim! 코드 에디터 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cY0JxzENBJg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cY0JxzENBJg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cY0JxzENBJg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-23T07:55:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7hav8lUxeU_rbwJGvQJjpS9sd8c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "36HrZHzPeuY"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-11T12:25:47Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "자바스크립트 최신 문법 (ES6, ES11) | 모르면 후회 하는 최신 문법과 사용법 정리 🐶",
+                "description": "자바스크립트 최신 문법중(~ES6 그리고 ES11) 많이 쓰이는 아이들을 엄선해서 정리해 보았어요 :) React, Angular, Vue와 같은 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/36HrZHzPeuY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/36HrZHzPeuY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/36HrZHzPeuY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-11T12:25:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YPnmb9T3EVO5gT9OQgF002DoiZs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DmK7d0xB2j0"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-26T08:00:03Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "개발 공부 제대로 하는 법 🤓 (정체기에서 성장기로 가보자,  함 해보자!)",
+                "description": "이전영상에서 \"성장 마인드셋\"을 가지는게 중요하다고 강조했는데, 이번영상에서는 도대체 어떻게 성장 하면 되는지, 개발 공부 하는 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DmK7d0xB2j0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DmK7d0xB2j0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DmK7d0xB2j0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-26T08:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0-b4tEvro34aAZqGn5gL16s0Dy4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tJieVCgGzhs"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-07T08:00:14Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "자바스크립트 2. 콘솔에 출력, script async 와 defer의 차이점 및 앞으로 자바스크립트 공부 방향 | 프론트엔드 개발자 입문편 (JavaScript ES5+)",
+                "description": "Jvascript를 HTML에 링크할때 효율적인 방법 async와 defer의 차이점을 살펴보고 앞으로 공부하기 위한 환경설정을 해보도록 할께요 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tJieVCgGzhs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tJieVCgGzhs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tJieVCgGzhs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-07T08:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KwojenBdBDRTSbyoKuCUCOg8wsI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4ezXhCuT2mw"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-23T10:57:09Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "함수형프로그래밍이 대세다?! (함수형 vs 객체지향)",
+                "description": "함수평 프로그래밍과 객체지향 프로그래밍 둘중에 뭐가 더 좋은건가요? 함수형 프로그래밍이 대세인가요? 이 영상 끝에 모든 답을 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4ezXhCuT2mw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4ezXhCuT2mw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4ezXhCuT2mw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-23T10:57:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JowUHNKHkYknHzk1B1lenytETas",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X91jsJyZofw"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-03T12:19:16Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "웹사이트 따라만들기, 반응형 헤더편 | 프론트엔드 개발자 입문편: HTML, CSS, Javascript",
+                "description": "HTML, CSS를 이용해서 (Javascript 약간) 반응형 헤더를 함께 만들어 볼꺼예요 (↙ 자세한 내용). 풀스택 개발 로드맵 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X91jsJyZofw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X91jsJyZofw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X91jsJyZofw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-03T12:19:16Z"
+            }
+        }
+    ]
+}

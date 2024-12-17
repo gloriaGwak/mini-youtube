@@ -1,25 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import Root from './pages/Root';
+import Videos from './pages/Videos';
+import Watch from './pages/Watch';
+import NotFound from './pages/NotFound';
 
-function App() {
+export default function App() {
+  const router = createBrowserRouter([
+    {
+      path: '/',
+      element: <Root />,
+      errorElement: <NotFound />,
+      children:[
+        { index:true, element: <Videos /> },
+        { path: '/videos', element: <Videos /> },
+        { path: '/videos/:keyword', element: <Videos /> },
+        { path: '/videos/watch/:id', element: <Watch /> },
+      ]
+    }
+  ]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+      <RouterProvider router={router} />
+  )
 }
-
-export default App;
+// https://www.googleapis.com/youtube/v3/search
+//   ?part=snippet
+//   &relatedToVideoId={VIDEO_ID}
+//   &type=video
+//   &key={YOUR_API_KEY}
