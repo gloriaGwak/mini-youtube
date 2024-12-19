@@ -1,31 +1,24 @@
+import React from 'react';
+import { Outlet } from 'react-router-dom';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
+import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
+import Header from './components/Header';
+import YoutubeApiProvider from './context/YoutubeApiContext';
 import './App.css';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Root from './pages/Root';
-import Videos from './pages/Videos';
-import Watch from './pages/Watch';
-import NotFound from './pages/NotFound';
+
+const queryClient = new QueryClient();
 
 export default function App() {
-  const router = createBrowserRouter([
-    {
-      path: '/',
-      element: <Root />,
-      errorElement: <NotFound />,
-      children:[
-        { index:true, element: <Videos /> },
-        { path: '/videos', element: <Videos /> },
-        { path: '/videos/:keyword', element: <Videos /> },
-        { path: '/videos/watch/:id', element: <Watch /> },
-      ]
-    }
-  ]);
-
+  
   return (
-      <RouterProvider router={router} />
+    <div className='wrap'>
+      <Header />
+      <YoutubeApiProvider>
+          <QueryClientProvider client={queryClient}>
+          {/* <ReactQueryDevtools initialIsOpen={true} /> */}
+              <Outlet />
+          </QueryClientProvider>
+      </YoutubeApiProvider>
+  </div>
   )
 }
-// https://www.googleapis.com/youtube/v3/search
-//   ?part=snippet
-//   &relatedToVideoId={VIDEO_ID}
-//   &type=video
-//   &key={YOUR_API_KEY}

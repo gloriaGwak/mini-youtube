@@ -1,456 +1,1820 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "395ICzaGuapzryhaDuIYMWLJumc",
+    "etag": "FMUnMjwVGCwPr6_ZO0Rc7OdHJKg",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "-Rlyofg3k73YHnhQgbcCM2eNwNI",
-            "id": "bgrwYFuNib0",
+            "etag": "o-rwfQlQdksLfmJezjOJzAW3sqs",
+            "id": "AnNxLZj4Vlw",
             "snippet": {
-                "publishedAt": "2024-12-16T17:01:51Z",
-                "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
-                "title": "Where I've been for the past year...",
-                "description": "READ MONSTERS WE MAKE NOW! https://monsterswemake.com\nFOLLOW MY TEAM:\nhttps://www.instagram.com/monsterswemake/\nVincent: https://www.instagram.com/vinmagazine/\nRobbie: https://www.instagram.com/robbiezs/\nCorey: https://www.instagram.com/coreyvanmikell/\nAndrew: https://www.instagram.com/batmandrew.art/\nElyas: https://www.instagram.com/elyasart/",
+                "publishedAt": "2024-12-17T09:00:07Z",
+                "channelId": "UC-uIpGINZDL-VIHQQzJW8jw",
+                "title": "[SUB] 자꾸 이러시면 오해… 오예입니다 | EP.70 이준혁 | 살롱드립2",
+                "description": "보이지 않는 벽 //// 둘만의 세상에 완벽히 빠진\n도연X준혁의 설렘 둥둥 토크 당도 최고 💕\n주고 받는 플러팅 속에 광.대.폭.발\n(추구미) 다크 초콜릿 데빌이 되고 싶은 밀키 바닐라 엔젤이 강림했습니다!\n\n[살롱드립2] 매주 화요일 오후 6시 테오 유튜브에서 공개\n#이준혁 #나의완벽한비서 #장도연 #살롱드립2 #SalonDrip #TEO #테오 #LeeJunHyuk \n\n*본 영상과 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다. (Hateful comments or indiscriminate swearing, criticism, and ridicule of the cast may be deleted without notice.)\n\n*본 영상은 유료 광고를 포함하고 있습니다. (This video includes sponsored content.)\n\n*이제부터 [살롱드립]은 삼성TV플러스에서도 만나보실 수 있습니다 :)\n\n◼️TEO 공식 SNS \n➡️https://www.youtube.com/@TEO_universe\n➡️https://www.instagram.com/teo.universe/\n➡️https://twitter.com/TEO_universe_",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/bgrwYFuNib0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/AnNxLZj4Vlw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/bgrwYFuNib0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AnNxLZj4Vlw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/bgrwYFuNib0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AnNxLZj4Vlw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/bgrwYFuNib0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AnNxLZj4Vlw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/bgrwYFuNib0/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AnNxLZj4Vlw/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "CoryxKenshin",
+                "channelTitle": "TEO 테오",
                 "tags": [
-                    "coryxkenshin",
-                    "cory",
-                    "kenshin",
-                    "return",
-                    "2024",
-                    "coryxkenshin is back",
-                    "is",
-                    "back",
-                    "monsters we make",
-                    "monsters",
-                    "we",
-                    "make",
-                    "manga",
-                    "anime",
-                    "trailer",
-                    "hey",
-                    "long",
-                    "time",
-                    "no",
-                    "see",
-                    "why",
-                    "ive",
-                    "been",
-                    "gone",
-                    "for",
-                    "year"
-                ],
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Where I've been for the past year...",
-                    "description": "READ MONSTERS WE MAKE NOW! https://monsterswemake.com\nFOLLOW MY TEAM:\nhttps://www.instagram.com/monsterswemake/\nVincent: https://www.instagram.com/vinmagazine/\nRobbie: https://www.instagram.com/robbiezs/\nCorey: https://www.instagram.com/coreyvanmikell/\nAndrew: https://www.instagram.com/batmandrew.art/\nElyas: https://www.instagram.com/elyasart/"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "contentDetails": {
-                "duration": "PT23M13S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "6649842",
-                "likeCount": "1110459",
-                "favoriteCount": "0",
-                "commentCount": "105824"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "l6Sj3LK04NA_EX2s2JxrT5Fg0IE",
-            "id": "JER0Fkyy3tw",
-            "snippet": {
-                "publishedAt": "2024-12-16T12:59:00Z",
-                "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
-                "title": "Warfare | Official Trailer HD | A24",
-                "description": "Written and directed by Iraq War Veteran Ray Mendoza and Civil War’s Alex Garland, and starring D'Pharaoh Woon-A-Tai, Will Poulter, Cosmo Jarvis, Kit Connor, Finn Bennett, Taylor John Smith,  Michael Gandolfini, Adain Bradley, Noah Centineo, Evan Holtzman, Henrique Zaga, , with Joesph Quinn, and Charles Melton. WARFARE – In Theaters 2025.\n\n\nRELEASE DATE: 2025\r\nDIRECTOR: Ray Mendoza and Alex Garland\r\nCAST: D'Pharaoh Woon-A-Tai, Will Poulter, Cosmo Jarvis, Kit Connor, Finn Bennett, Taylor John Smith,  Michael Gandolfini, Adain Bradley, Noah Centineo, Evan Holtzman, Henrique Zaga, , with Joesph Quinn, and Charles Melton.\r\n\r\nLike WARFARE on FACEBOOK: https://bit.ly/WarfareMovie_FB\r\nFollow WARFARE on X: https://bit.ly/WarfareMovie_X\nFollow WARFARE on INSTAGRAM: https://bit.ly/WarfareMovie_IG\n\r\n------\r\n\r\nABOUT A24:\r\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\r\n\r\nComing Soon: The Brutalist, Babygirl, The Legend of Ochi\r\n\r\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\r\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\r\nLike A24 on FACEBOOK: http://bit.ly/FBA24\r\nFollow A24 on TWITTER: http://bit.ly/TweetA24\r\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JER0Fkyy3tw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JER0Fkyy3tw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JER0Fkyy3tw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/JER0Fkyy3tw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/JER0Fkyy3tw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "A24",
-                "tags": [
-                    "a24",
-                    "a24 films",
-                    "a24 trailers",
-                    "independent films",
-                    "trailer",
-                    "HD",
-                    "official",
-                    "movie",
-                    "film",
-                    "a24 movies",
-                    "oscar winner",
-                    "academy award winner"
-                ],
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Warfare | Official Trailer HD | A24",
-                    "description": "Written and directed by Iraq War Veteran Ray Mendoza and Civil War’s Alex Garland, and starring D'Pharaoh Woon-A-Tai, Will Poulter, Cosmo Jarvis, Kit Connor, Finn Bennett, Taylor John Smith,  Michael Gandolfini, Adain Bradley, Noah Centineo, Evan Holtzman, Henrique Zaga, , with Joesph Quinn, and Charles Melton. WARFARE – In Theaters 2025.\n\n\nRELEASE DATE: 2025\r\nDIRECTOR: Ray Mendoza and Alex Garland\r\nCAST: D'Pharaoh Woon-A-Tai, Will Poulter, Cosmo Jarvis, Kit Connor, Finn Bennett, Taylor John Smith,  Michael Gandolfini, Adain Bradley, Noah Centineo, Evan Holtzman, Henrique Zaga, , with Joesph Quinn, and Charles Melton.\r\n\r\nLike WARFARE on FACEBOOK: https://bit.ly/WarfareMovie_FB\r\nFollow WARFARE on X: https://bit.ly/WarfareMovie_X\nFollow WARFARE on INSTAGRAM: https://bit.ly/WarfareMovie_IG\n\r\n------\r\n\r\nABOUT A24:\r\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\r\n\r\nComing Soon: The Brutalist, Babygirl, The Legend of Ochi\r\n\r\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\r\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\r\nLike A24 on FACEBOOK: http://bit.ly/FBA24\r\nFollow A24 on TWITTER: http://bit.ly/TweetA24\r\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT2M25S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "true",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "1513817",
-                "likeCount": "55459",
-                "favoriteCount": "0",
-                "commentCount": "4159"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "bNlf3CjkOe6rLmYpZSHMtn-JbzY",
-            "id": "jIvVbyHl8eA",
-            "snippet": {
-                "publishedAt": "2024-12-15T17:07:37Z",
-                "channelId": "UCja7QUMRG9AD8X2F_vXFb9A",
-                "title": "I Filled my ENTIRE House with Snow *don’t try this*",
-                "description": "I Filled my ENTIRE House with Snow *don’t try this*\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉 ​⁠@royaltyfam \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 ​⁠ ​⁠@RoyaltyGaming1 \n \nMore AMAZING Videos! 👇\n\nOur Son's EPIC 14th Birthday Surprise\n👉 https://youtu.be/XuNqMOGENZk\n\nEating Only GAS STATION FOOD for 24 Hours!! 🤮\n👉 https://youtu.be/UtcJZnyFTQE\n\ni Survived the World's STRICTEST Babysitter\n👉 https://youtu.be/oC2o2-Nteyw?si=QA8BqYP16RCloMUz\n\nHOME ALONE Without Parents for 24 Hours *Security Cameras*\n👉 https://youtu.be/T6IuTOAYS8k?si=iG5BjzALXi0uACvl\n\nOur Son's EPIC 13th BIRTHDAY SURPRISE!\n👉 https://youtu.be/ppAIBR_BxO4\n\nHe Finally Got His DREAM Christmas PRESENT!! **EMOTIONAL**\n👉 https://youtu.be/Ot17zf95YNA?si=SSjqvSYrj8qqMmIg\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nSon Tries to Find his MOM Blindfolded!\n👉 https://youtu.be/gTPu4NtqSz4?si=BuYVHfLEmKTJdldz\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\nExtreme HIDE & SEEK at LARGEST IKEA! ft/ Jordan Matter\n👉 https://youtu.be/xUB_YHSJYTc\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nI Filled my ENTIRE House with Snow *don’t try this*\nhttps://youtu.be/jIvVbyHl8eA\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jIvVbyHl8eA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jIvVbyHl8eA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jIvVbyHl8eA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/jIvVbyHl8eA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/jIvVbyHl8eA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "The Royalty Family",
-                "tags": [
-                    "The Royalty Family",
-                    "Royalty Family",
-                    "Andrea Espada",
-                    "Family Friendly",
-                    "Royalty",
-                    "Royal Family",
-                    "The Royal Family",
-                    "Royalty Fam",
-                    "The Royalty Fam",
-                    "Realty Family",
-                    "Roti Family",
-                    "Family Vlog",
-                    "royalty family",
-                    "royalty",
-                    "royal",
-                    "royalty fam",
-                    "Ali andrea",
-                    "Andrea ali",
-                    "royalty gaming",
-                    "royalty baby",
-                    "challenge",
-                    "Jordan matter",
-                    "Rebecca zamolo",
-                    "24 hours",
-                    "we survived",
-                    "survived",
-                    "I Filled my ENTIRE House with Snow *don’t try this*",
-                    "snow",
-                    "snow in house",
-                    "entire house with snow",
-                    "I filled my house"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "I Filled my ENTIRE House with Snow *don’t try this*",
-                    "description": "I Filled my ENTIRE House with Snow *don’t try this*\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉 ​⁠@royaltyfam \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 ​⁠ ​⁠@RoyaltyGaming1 \n \nMore AMAZING Videos! 👇\n\nOur Son's EPIC 14th Birthday Surprise\n👉 https://youtu.be/XuNqMOGENZk\n\nEating Only GAS STATION FOOD for 24 Hours!! 🤮\n👉 https://youtu.be/UtcJZnyFTQE\n\ni Survived the World's STRICTEST Babysitter\n👉 https://youtu.be/oC2o2-Nteyw?si=QA8BqYP16RCloMUz\n\nHOME ALONE Without Parents for 24 Hours *Security Cameras*\n👉 https://youtu.be/T6IuTOAYS8k?si=iG5BjzALXi0uACvl\n\nOur Son's EPIC 13th BIRTHDAY SURPRISE!\n👉 https://youtu.be/ppAIBR_BxO4\n\nHe Finally Got His DREAM Christmas PRESENT!! **EMOTIONAL**\n👉 https://youtu.be/Ot17zf95YNA?si=SSjqvSYrj8qqMmIg\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nSon Tries to Find his MOM Blindfolded!\n👉 https://youtu.be/gTPu4NtqSz4?si=BuYVHfLEmKTJdldz\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\nExtreme HIDE & SEEK at LARGEST IKEA! ft/ Jordan Matter\n👉 https://youtu.be/xUB_YHSJYTc\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nI Filled my ENTIRE House with Snow *don’t try this*\nhttps://youtu.be/jIvVbyHl8eA\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT25M51S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "4158327",
-                "likeCount": "62925",
-                "favoriteCount": "0",
-                "commentCount": "8015"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Npi6xf6slhoggDQ1vOU8gcAPBME",
-            "id": "DrU8ofww-NI",
-            "snippet": {
-                "publishedAt": "2024-12-16T16:00:04Z",
-                "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
-                "title": "The White Lotus Season 3 | Official Teaser | Max",
-                "description": "Seeking peace can be a trip.\n\nThe HBO Original Series #TheWhiteLotus returns February 16 on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood.\n#WarnerBrosDiscovery #streamonmax \n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DrU8ofww-NI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DrU8ofww-NI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DrU8ofww-NI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/DrU8ofww-NI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/DrU8ofww-NI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Max",
-                "tags": [
-                    "max",
-                    "hbo max",
-                    "hbo",
-                    "max teaser",
-                    "hbo original series",
-                    "max original series",
-                    "hbo trailer",
-                    "hbo teaser",
-                    "new on hbo",
-                    "hbo clip",
-                    "the white lotus",
-                    "mike white",
-                    "the white lotus season 3",
-                    "the white lotus season 3 teaser",
-                    "the white lotus season 3 cast",
-                    "the white lotus season 3 theme",
-                    "parker posey",
-                    "carrie coon",
-                    "scott glenn",
-                    "the white lotus thailand",
-                    "walton goggins",
-                    "leslie bibb",
-                    "michelle monaghan",
-                    "lalisa manobal",
-                    "blackpink",
-                    "lisa",
-                    "lisa blackpink",
-                    "jason issacs",
+                    "김태호",
+                    "teo",
+                    "지구마불",
+                    "ena",
+                    "곽튜브",
+                    "빠니보틀",
+                    "원지",
+                    "세계여행",
+                    "예능",
+                    "tvN",
+                    "댄스가수유랑단",
+                    "댄스가수 유랑단",
+                    "이효리",
+                    "엄정화",
+                    "김완선",
+                    "보아",
+                    "화사",
+                    "마마무",
+                    "Kpop",
+                    "KimWansun",
+                    "UhmJunghwa",
+                    "LeeHyori",
+                    "BoA",
+                    "HwaSa",
+                    "게스트",
+                    "아이돌",
+                    "음악",
+                    "music",
+                    "stage",
+                    "idol",
+                    "k-pop",
+                    "티비엔",
+                    "살롱드립",
+                    "테오유튜브",
+                    "유튜브",
+                    "노래",
+                    "무대",
+                    "star",
+                    "super star",
+                    "k-dol",
+                    "케이팝",
                     "kpop",
-                    "lalisa blackpink"
+                    "k-music",
+                    "차정숙",
+                    "장도연",
+                    "토크쇼",
+                    "토크 예능",
+                    "salon drip",
+                    "테어",
+                    "트렌디한조영지",
+                    "이준혁",
+                    "나의완벽한비서",
+                    "손석구",
+                    "범죄도시"
                 ],
                 "categoryId": "24",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "The White Lotus Season 3 | Official Teaser | Max",
-                    "description": "Seeking peace can be a trip.\n\nThe HBO Original Series #TheWhiteLotus returns February 16 on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood.\n#WarnerBrosDiscovery #streamonmax \n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook"
+                    "title": "[SUB] 자꾸 이러시면 오해… 오예입니다 | EP.70 이준혁 | 살롱드립2",
+                    "description": "보이지 않는 벽 //// 둘만의 세상에 완벽히 빠진\n도연X준혁의 설렘 둥둥 토크 당도 최고 💕\n주고 받는 플러팅 속에 광.대.폭.발\n(추구미) 다크 초콜릿 데빌이 되고 싶은 밀키 바닐라 엔젤이 강림했습니다!\n\n[살롱드립2] 매주 화요일 오후 6시 테오 유튜브에서 공개\n#이준혁 #나의완벽한비서 #장도연 #살롱드립2 #SalonDrip #TEO #테오 #LeeJunHyuk \n\n*본 영상과 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다. (Hateful comments or indiscriminate swearing, criticism, and ridicule of the cast may be deleted without notice.)\n\n*본 영상은 유료 광고를 포함하고 있습니다. (This video includes sponsored content.)\n\n*이제부터 [살롱드립]은 삼성TV플러스에서도 만나보실 수 있습니다 :)\n\n◼️TEO 공식 SNS \n➡️https://www.youtube.com/@TEO_universe\n➡️https://www.instagram.com/teo.universe/\n➡️https://twitter.com/TEO_universe_"
                 },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT1M34S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "true",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "668525",
-                "likeCount": "16355",
-                "favoriteCount": "0",
-                "commentCount": "1239"
+                "defaultAudioLanguage": "ko"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "R2qOYfM24zhvDDnsfFuEVlOhXGw",
-            "id": "Qnnde9CMAg8",
+            "etag": "jp8u1yspx4KBYjqZwFQFm154hGg",
+            "id": "FulKKN6-Hpc",
             "snippet": {
-                "publishedAt": "2024-12-15T19:09:59Z",
-                "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
-                "title": "Manchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 12/15/2024 | NBC Sports",
-                "description": "The woes continue for Pep Guardiola and Manchester City as Amad Diallo, almost single-handedly, launches Manchester United's dramatic late comeback to snatch all three points at the Etihad in Matchweek 16. #NBCSports #PremierLeague #PremierLeagueHighlights\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1 \n» Watch the Premier League live on Peacock: https://peacocktv.smart.link/v82e9dl56\n» Get Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, Big Ten, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France and many more. Subscribe to our channel for the latest sporting news and highlights!\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com \nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports \nFollow NBC Sports on Twitter: https://twitter.com/nbcsports \nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/ \n\nhttps://www.nbcsports.com/nfl/sunday-night-football \nhttps://nbcsports.com/motors/nascar \nhttps://nbcsports.com/soccer/premier-league \n\nManchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 12/15/2024 | NBC Sports\nhttps://www.youtube.com/nbcsports",
+                "publishedAt": "2024-12-15T00:00:06Z",
+                "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+                "title": "[EN] 사파 안개 속 소용돌이 치는 4형제의 희로애락 | 풍향고 EP.3 베트남 사파 #유재석 #황정민 #지석진 #양세찬",
+                "description": "※ 알림! 사파에 도달한 4형제의 텐션 굴곡과 높낮이가 순식간에 바뀝니다. 계국지분들은 이에 동요하지 마시고 즐거운 마음으로 여행을 감상해주시면 됩니다. ※\n\nㅡㅡㅡ\n🍀풍/향/고/당/일/시/청/이/벤/트/진/행/중🍀\n매주 업로드 되는 풍향고 당일 시청 후 \n댓글을 달아주신 계국지분들께 \n추첨을 통해 선물을 드립니다\n*자세한 사항은 뜬뜬 커뮤니티 게시글 참고*\n\nㅡㅡㅡ\n바람 따라가는 ‘NO어플, NO예약’ 즉흥 여행 [풍향고]\n12월 21일 토요일 오전 9시, [풍향고 EP.4] 채널 뜬뜬에서 공개!\n\nㅡㅡㅡ\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주 서윤지\n작가 | 김송화 최수정 김이진 정채휴 전우성\n\nㅡㅡㅡ\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #풍향고 #유재석 #지석진 #황정민 #양세찬\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Qnnde9CMAg8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/FulKKN6-Hpc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Qnnde9CMAg8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FulKKN6-Hpc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Qnnde9CMAg8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FulKKN6-Hpc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Qnnde9CMAg8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FulKKN6-Hpc/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/Qnnde9CMAg8/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FulKKN6-Hpc/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "NBC Sports",
+                "channelTitle": "뜬뜬 DdeunDdeun",
                 "tags": [
-                    "premier league",
-                    "nbc sports premier league",
-                    "premier league news",
-                    "nbc sports",
-                    "pl",
-                    "premier league matchweek 16",
-                    "matchweek 16 pl",
-                    "premier league highlights",
-                    "premier league goals",
-                    "pl matchweek 16",
-                    "pl matchweek 16 goals",
-                    "pl matchweek 16 highlights",
-                    "manchester city goals",
-                    "manchester city highlights",
-                    "manchester city vs manchester united",
-                    "manchester united goals",
-                    "man u highlights",
-                    "man city goals",
-                    "Josko Gvardiol",
-                    "Bruno Fernandes",
-                    "Amad Diallo"
+                    "뜬뜬",
+                    "풍향고",
+                    "유재석",
+                    "황정민",
+                    "양세찬",
+                    "지석진",
+                    "지편한세상",
+                    "쑥쑥",
+                    "유재석 재산",
+                    "핑계고",
+                    "사파",
+                    "베트남",
+                    "sapa",
+                    "몽빌리지",
+                    "vietnam",
+                    "discount",
+                    "디스카운트",
+                    "할인받는법",
+                    "여행",
+                    "브이로그",
+                    "여행지 추천",
+                    "베트남 여행",
+                    "베트남의 스위스",
+                    "스위스",
+                    "스위스 여행",
+                    "해외 여행",
+                    "풍향고 3",
+                    "풍향고 3화",
+                    "뉴스",
+                    "특보",
+                    "핑계고 시상식"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[EN] 사파 안개 속 소용돌이 치는 4형제의 희로애락 | 풍향고 EP.3 베트남 사파 #유재석 #황정민 #지석진 #양세찬",
+                    "description": "※ 알림! 사파에 도달한 4형제의 텐션 굴곡과 높낮이가 순식간에 바뀝니다. 계국지분들은 이에 동요하지 마시고 즐거운 마음으로 여행을 감상해주시면 됩니다. ※\n\nㅡㅡㅡ\n🍀풍/향/고/당/일/시/청/이/벤/트/진/행/중🍀\n매주 업로드 되는 풍향고 당일 시청 후 \n댓글을 달아주신 계국지분들께 \n추첨을 통해 선물을 드립니다\n*자세한 사항은 뜬뜬 커뮤니티 게시글 참고*\n\nㅡㅡㅡ\n바람 따라가는 ‘NO어플, NO예약’ 즉흥 여행 [풍향고]\n12월 21일 토요일 오전 9시, [풍향고 EP.4] 채널 뜬뜬에서 공개!\n\nㅡㅡㅡ\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주 서윤지\n작가 | 김송화 최수정 김이진 정채휴 전우성\n\nㅡㅡㅡ\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #풍향고 #유재석 #지석진 #황정민 #양세찬\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "vIYaTGLwyL-pQUriC8gDBIySrYw",
+            "id": "LDm_XWLq4x8",
+            "snippet": {
+                "publishedAt": "2024-12-18T09:00:31Z",
+                "channelId": "UCcjmCG5tTegWwqcSDSkDevQ",
+                "title": "강주은 PICK 코스트코에서 무조건 사야하는 찐 애정템(+보관법,레시피)",
+                "description": "깡쥐들 안녕하세요~🐶\n강주은의 내돈내산 장바구니 대공개!🛍️\n22년차 코스트코 회원인 강주은이 자신있게 PICK한 찐 애정템과 함께\n연말에 간단하지만 고급진 요리 레시피까지!! 이거 진짜 맛있어요😋\n\n다들 쇼핑 꿀팁 얻어가세요~\n\n🎀크리스마스 기념 깡주은 유튜브 채널 구독 이벤트🎀\n유튜브 '깡주은' 채널을 구독한 후\n'구독 완료'와 함께 코스트코에서 나만의 강추템을 댓글로 달아주세요!\n추첨을 통해 달콤한 디저트를 크리스마스 선물로 드립니다!\n\n✔일정\n12월 18일(수) ~ 12월 24일(화)\n\n✔당첨자 발표\n12월 30일(월), 개별 답댓글로 안내\n\n✔ 경품\n뚜레쥬르 클래식 딸기잼 롤케이크 모바일교환권 (10명)\n\n──────────────────────────────\n00:00 깡주은 하이라이트\n00:14 촬영 들어가기 전 티타임☕️\n00:51 주은픽 코스트코 아이템 공개 ✨\n02:20 코스트코 아이템 ① - Montreal Steak Seasoning\n02:56 코스트코 아이템 ② - Spicy Love Hummus\n03:54 코스트코 아이템 ③ - 한우 양념소불고기\n04:15 코스트코 아이템 ④ - 한우 1++ 안심 스테이크\n05:08 코스트코 아이템 ⑤ - Rack of Lamb\n05:48 코스트코 아이템 ⑥ - 파마산 치즈 스낵\n06:15 코스트코 아이템 ⑦ - 에센뽀득\n07:06 코스트코 아이템 ⑧ - 아보카도\n07:55 코스트코 아이템 ⑨ - 마\n08:26 코스트코 아이템 ⑩ - BURRATA\n08:56 코스트코 아이템 ⑪ - 페퍼 훈제 연어 슬라이스\n09:28 코스트코 아이템 ⑫ - 새우 칵테일\n09:57 코스트코 아이템 ⑬ - SOLESTADO FIG SPREAD\n10:16 강주은이 알려주는 소분 보관법\n12:50 양갈비 요리 레시피 공개✨\n14:34 오늘의 킥 ‘Montreal steak spice’ \n20:00 Even하게 익은 양갈비🍖\n24:02 주은이 하고 싶은 요리들\n25:18 쿠키영상\n──────────────────────────────",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LDm_XWLq4x8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LDm_XWLq4x8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LDm_XWLq4x8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LDm_XWLq4x8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LDm_XWLq4x8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "깡주은",
+                "tags": [
+                    "강주은",
+                    "최민수",
+                    "살림팁",
+                    "코스트코",
+                    "추천템",
+                    "아이템",
+                    "양갈비",
+                    "대추야자",
+                    "커피",
+                    "별미",
+                    "갓주은",
+                    "촬영",
+                    "요리",
+                    "음식",
+                    "COSTCO",
+                    "합가",
+                    "블랙카드",
+                    "단골",
+                    "내돈내산",
+                    "마술의 양념",
+                    "Montreal Steak Seasoning",
+                    "Montreal",
+                    "Spicy Love Hummus",
+                    "Hummus",
+                    "한우 양념소불고기",
+                    "한우",
+                    "불고기",
+                    "소불고기",
+                    "한우 1++ 안심 스테이크",
+                    "스테이크",
+                    "Rack of Lamb",
+                    "파마산 치즈 스낵",
+                    "에센뽀득",
+                    "아보카도",
+                    "마",
+                    "BURRATA",
+                    "연어",
+                    "페퍼 훈제 연어 슬라이스",
+                    "새우 칵테일",
+                    "SOLESTADO FIG SPREAD",
+                    "소분",
+                    "레시피",
+                    "이케아",
+                    "과자",
+                    "다이어트"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "강주은 PICK 코스트코에서 무조건 사야하는 찐 애정템(+보관법,레시피)",
+                    "description": "깡쥐들 안녕하세요~🐶\n강주은의 내돈내산 장바구니 대공개!🛍️\n22년차 코스트코 회원인 강주은이 자신있게 PICK한 찐 애정템과 함께\n연말에 간단하지만 고급진 요리 레시피까지!! 이거 진짜 맛있어요😋\n\n다들 쇼핑 꿀팁 얻어가세요~\n\n🎀크리스마스 기념 깡주은 유튜브 채널 구독 이벤트🎀\n유튜브 '깡주은' 채널을 구독한 후\n'구독 완료'와 함께 코스트코에서 나만의 강추템을 댓글로 달아주세요!\n추첨을 통해 달콤한 디저트를 크리스마스 선물로 드립니다!\n\n✔일정\n12월 18일(수) ~ 12월 24일(화)\n\n✔당첨자 발표\n12월 30일(월), 개별 답댓글로 안내\n\n✔ 경품\n뚜레쥬르 클래식 딸기잼 롤케이크 모바일교환권 (10명)\n\n──────────────────────────────\n00:00 깡주은 하이라이트\n00:14 촬영 들어가기 전 티타임☕️\n00:51 주은픽 코스트코 아이템 공개 ✨\n02:20 코스트코 아이템 ① - Montreal Steak Seasoning\n02:56 코스트코 아이템 ② - Spicy Love Hummus\n03:54 코스트코 아이템 ③ - 한우 양념소불고기\n04:15 코스트코 아이템 ④ - 한우 1++ 안심 스테이크\n05:08 코스트코 아이템 ⑤ - Rack of Lamb\n05:48 코스트코 아이템 ⑥ - 파마산 치즈 스낵\n06:15 코스트코 아이템 ⑦ - 에센뽀득\n07:06 코스트코 아이템 ⑧ - 아보카도\n07:55 코스트코 아이템 ⑨ - 마\n08:26 코스트코 아이템 ⑩ - BURRATA\n08:56 코스트코 아이템 ⑪ - 페퍼 훈제 연어 슬라이스\n09:28 코스트코 아이템 ⑫ - 새우 칵테일\n09:57 코스트코 아이템 ⑬ - SOLESTADO FIG SPREAD\n10:16 강주은이 알려주는 소분 보관법\n12:50 양갈비 요리 레시피 공개✨\n14:34 오늘의 킥 ‘Montreal steak spice’ \n20:00 Even하게 익은 양갈비🍖\n24:02 주은이 하고 싶은 요리들\n25:18 쿠키영상\n──────────────────────────────"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NPmhi6Pw1SCyWXPNB3cn0LN8xnc",
+            "id": "sA51QcJQu64",
+            "snippet": {
+                "publishedAt": "2024-12-17T09:50:34Z",
+                "channelId": "UCPoTjCZvUOkECBNm6ezsVEA",
+                "title": "류현진이 말하는 메이저리그와 KBO의 차이",
+                "description": "60계 치킨 x 이대호 구독자 이벤트!\n\n본 영상에 댓글 남겨 주시면 추첨을 통해 선물을 드립니다. (1편+2편 합해서 추첨 예정)\n\n1) 10명 : 짜장계란치킨 쿠폰 1매 + 이대호 사인볼 1개 + 류현진 사인볼 1개\n2) 20명 : 짜장계란치킨 쿠폰 1매\n\n댓글 달고 맛있는 60계 짜장계란치킨 드셔보세요!\n\n구독 좋아요 알림 설정도 부탁드릴게요♡",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sA51QcJQu64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sA51QcJQu64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sA51QcJQu64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sA51QcJQu64/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sA51QcJQu64/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "이대호 [RE:DAEHO]",
+                "tags": [
+                    "류현진",
+                    "이대호",
+                    "홈런",
+                    "커쇼",
+                    "그레인키",
+                    "메이저리그",
+                    "mlb",
+                    "kbo",
+                    "복귀",
+                    "충격",
+                    "안타",
+                    "포수",
+                    "천재",
+                    "노력",
+                    "한화",
+                    "가을야구",
+                    "치킨",
+                    "먹방"
                 ],
                 "categoryId": "17",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "Manchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 12/15/2024 | NBC Sports",
-                    "description": "The woes continue for Pep Guardiola and Manchester City as Amad Diallo, almost single-handedly, launches Manchester United's dramatic late comeback to snatch all three points at the Etihad in Matchweek 16. #NBCSports #PremierLeague #PremierLeagueHighlights\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1 \n» Watch the Premier League live on Peacock: https://peacocktv.smart.link/v82e9dl56\n» Get Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, Big Ten, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France and many more. Subscribe to our channel for the latest sporting news and highlights!\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com \nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports \nFollow NBC Sports on Twitter: https://twitter.com/nbcsports \nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/ \n\nhttps://www.nbcsports.com/nfl/sunday-night-football \nhttps://nbcsports.com/motors/nascar \nhttps://nbcsports.com/soccer/premier-league \n\nManchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 12/15/2024 | NBC Sports\nhttps://www.youtube.com/nbcsports"
+                    "title": "류현진이 말하는 메이저리그와 KBO의 차이",
+                    "description": "60계 치킨 x 이대호 구독자 이벤트!\n\n본 영상에 댓글 남겨 주시면 추첨을 통해 선물을 드립니다. (1편+2편 합해서 추첨 예정)\n\n1) 10명 : 짜장계란치킨 쿠폰 1매 + 이대호 사인볼 1개 + 류현진 사인볼 1개\n2) 20명 : 짜장계란치킨 쿠폰 1매\n\n댓글 달고 맛있는 60계 짜장계란치킨 드셔보세요!\n\n구독 좋아요 알림 설정도 부탁드릴게요♡"
                 },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT12M20S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "regionRestriction": {
-                    "allowed": [
-                        "GU",
-                        "MP",
-                        "PR",
-                        "US",
-                        "VI"
-                    ]
+                "defaultAudioLanguage": "ja"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "o4tSqYRMwLTG--_bYwWbiTrH1qg",
+            "id": "2zNCMmns4Vc",
+            "snippet": {
+                "publishedAt": "2024-12-18T09:00:06Z",
+                "channelId": "UCRuSxVu4iqTK5kCh90ntAgA",
+                "title": "겨울철 직장인 특",
+                "description": "오늘도 시청해주셔서 감사드립니다!\n\n[총몇명 스튜디오] \n총감독 : 총몇명 / 부감독 : 콜드제로 / 제작진행 : 스노유진 / 스토리보드 : 지혜팍 / 원동화 : 파스타 / 편집 : 학주쌤 / 배경 : 미송지송  / 기획 : 총몇명, Belli / 사운드 : 총몇명, 세인러문, 콜드제로  / 더빙 : Belli, 총몇명",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
                 },
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "1195147",
-                "likeCount": "18509",
-                "favoriteCount": "0",
-                "commentCount": "1976"
+                "channelTitle": "총몇명",
+                "tags": [
+                    "총몇명",
+                    "출근",
+                    "퇴근",
+                    "ㅋㅋㅋ",
+                    "인공눈물",
+                    "사무실",
+                    "건조",
+                    "브이로그",
+                    "공감",
+                    "웃긴만화"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "겨울철 직장인 특",
+                    "description": "오늘도 시청해주셔서 감사드립니다!\n\n[총몇명 스튜디오] \n총감독 : 총몇명 / 부감독 : 콜드제로 / 제작진행 : 스노유진 / 스토리보드 : 지혜팍 / 원동화 : 파스타 / 편집 : 학주쌤 / 배경 : 미송지송  / 기획 : 총몇명, Belli / 사운드 : 총몇명, 세인러문, 콜드제로  / 더빙 : Belli, 총몇명"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8ILHuNvf9JRWqggIICZfkKF5ucQ",
+            "id": "20KsJd3Tef8",
+            "snippet": {
+                "publishedAt": "2024-12-16T09:00:04Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "4개의 시선 2부 | 2024 월드 챔피언십 다큐멘터리",
+                "description": "피넛, 쵸비, 에이밍, 오너의 눈으로 되짚어 본 #Worlds2024 #LCK #HouseofLegends\n\n✅ TIMELINE\n00:00 인트로\n00:41 4강\n22:27 결승\n37:18 에필로그\n\n✅ LIVE & LIVE VOD\n- LoL e스포츠 홈페이지:  https://lolesports.com/\n- 네이버: https://sports.news.naver.com/esports/index.nhn\n- SOOP: https://ch.sooplive.co.kr/aflol\n\n✅ LCK 채널 구독 및 좋아요!\n- LCK 공식 페이스북:  https://www.facebook.com/officiallck\n- LCK 공식 인스타그램:  https://www.instagram.com/lckofficial/\n- LCK 공식 틱톡 : https://tiktok.com/@lck_official\n- LCK 공식 트위터 (영문):  https://twitter.com/LCK\n\n* LCK 채널의 모든 영상은 라이엇 게임즈 코리아의 자산으로, 본 콘텐츠를 무단 복제, 도용하거나 상업적으로 이용하는 행위는 금지되며 이를 위반할 경우 관련법에 의거 법적 처벌을 받을 수 있음을 알려드립니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/20KsJd3Tef8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/20KsJd3Tef8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/20KsJd3Tef8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/20KsJd3Tef8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/20KsJd3Tef8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LCK",
+                "tags": [
+                    "LCK",
+                    "LCK Korea",
+                    "롤챔스",
+                    "티원",
+                    "에욱",
+                    "SNL",
+                    "LCK썸네일",
+                    "편집자",
+                    "스크",
+                    "T1",
+                    "SKT",
+                    "skt",
+                    "t1",
+                    "썸네일",
+                    "DK",
+                    "GEN",
+                    "DRX",
+                    "KT",
+                    "HLE",
+                    "POG",
+                    "MVP",
+                    "WORLDS",
+                    "롤드컵",
+                    "MSI",
+                    "ALLSTAR",
+                    "lck 서머",
+                    "lck 썸머",
+                    "lck 써머",
+                    "lck 스프링",
+                    "lck summer",
+                    "lck spring",
+                    "LSB",
+                    "NS",
+                    "한화생명",
+                    "농심",
+                    "케이티",
+                    "젠지",
+                    "광동",
+                    "담원",
+                    "브리온",
+                    "Brion",
+                    "BRO",
+                    "므시",
+                    "올스타",
+                    "매드무비",
+                    "위클리 코맨터리",
+                    "MIC Check",
+                    "MIC 첵",
+                    "롤분토론",
+                    "동준좌",
+                    "클템",
+                    "성캐",
+                    "오프더레코드",
+                    "월드챔피언십",
+                    "단톡",
+                    "롤더넥",
+                    "마이크체크",
+                    "광동프릭스",
+                    "KDF",
+                    "Kwangdong Freecs",
+                    "베스트모먼트",
+                    "롤리나잇",
+                    "성캐쇼",
+                    "LCK10주년",
+                    "혓바닥터스",
+                    "헬리오스",
+                    "캡틴잭",
+                    "리브샌박",
+                    "디플러스 기아",
+                    "디플",
+                    "플레임",
+                    "시크릿보드룸",
+                    "단군",
+                    "리뷰데스크",
+                    "포니",
+                    "꼬꼬갓",
+                    "고수진",
+                    "배혜지",
+                    "함예진",
+                    "윤수빈",
+                    "2024LCK",
+                    "2024롤챔스",
+                    "노페",
+                    "후니",
+                    "이은빈",
+                    "단합대회",
+                    "페이커",
+                    "쵸비",
+                    "2024월즈",
+                    "롤드컵2024"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "4개의 시선 2부 | 2024 월드 챔피언십 다큐멘터리",
+                    "description": "피넛, 쵸비, 에이밍, 오너의 눈으로 되짚어 본 #Worlds2024 #LCK #HouseofLegends\n\n✅ TIMELINE\n00:00 인트로\n00:41 4강\n22:27 결승\n37:18 에필로그\n\n✅ LIVE & LIVE VOD\n- LoL e스포츠 홈페이지:  https://lolesports.com/\n- 네이버: https://sports.news.naver.com/esports/index.nhn\n- SOOP: https://ch.sooplive.co.kr/aflol\n\n✅ LCK 채널 구독 및 좋아요!\n- LCK 공식 페이스북:  https://www.facebook.com/officiallck\n- LCK 공식 인스타그램:  https://www.instagram.com/lckofficial/\n- LCK 공식 틱톡 : https://tiktok.com/@lck_official\n- LCK 공식 트위터 (영문):  https://twitter.com/LCK\n\n* LCK 채널의 모든 영상은 라이엇 게임즈 코리아의 자산으로, 본 콘텐츠를 무단 복제, 도용하거나 상업적으로 이용하는 행위는 금지되며 이를 위반할 경우 관련법에 의거 법적 처벌을 받을 수 있음을 알려드립니다."
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5LAULTrOtTUaKpHZAWParp-qql4",
+            "id": "PlVUKOOCrkI",
+            "snippet": {
+                "publishedAt": "2024-12-16T03:00:15Z",
+                "channelId": "UCNhofiqfw5nl-NeDJkXtPvw",
+                "title": "꼬마 가이드와 함께한 마닐라 쓰레기산 슬럼가 투어 【필리핀1】",
+                "description": "졸리비는 양을 좀 더 주세요...\n--------------------------------------\n카메라\n\nDJI Action5\nDJI Pocket3\nGopro12\nGalaxy S24 Ultra\nInsta360 X4\n--------------------------------------\n배경음악\n\nJahzzar - DJ\nhttps://www.youtube.com/watch?v=Jy-NsYPnWqc\n\njahzzar - Flaw\nhttps://soundcloud.com/jahzzar/flaw\n\nJahzzar - Flutter\nhttps://www.youtube.com/watch?v=POY2Dd4VSF0",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PlVUKOOCrkI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PlVUKOOCrkI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PlVUKOOCrkI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PlVUKOOCrkI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PlVUKOOCrkI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "빠니보틀 Pani Bottle",
+                "tags": [
+                    "빠니보틀",
+                    "빠니보틀 세계여행",
+                    "빠니보틀 여행",
+                    "빠니보틀 필리핀",
+                    "빠니보틀 마닐라",
+                    "서출구",
+                    "김시윤",
+                    "스모키 마운틴",
+                    "마닐라 슬럼가"
+                ],
+                "categoryId": "19",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "꼬마 가이드와 함께한 마닐라 쓰레기산 슬럼가 투어 【필리핀1】",
+                    "description": "졸리비는 양을 좀 더 주세요...\n--------------------------------------\n카메라\n\nDJI Action5\nDJI Pocket3\nGopro12\nGalaxy S24 Ultra\nInsta360 X4\n--------------------------------------\n배경음악\n\nJahzzar - DJ\nhttps://www.youtube.com/watch?v=Jy-NsYPnWqc\n\njahzzar - Flaw\nhttps://soundcloud.com/jahzzar/flaw\n\nJahzzar - Flutter\nhttps://www.youtube.com/watch?v=POY2Dd4VSF0"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sy8C_o58-JGJTul7s4Or9e7vzr4",
+            "id": "5Q07XFIuMJY",
+            "snippet": {
+                "publishedAt": "2024-12-17T11:00:05Z",
+                "channelId": "UCE8SAlfZT-T8iwa7aOD8vaQ",
+                "title": "안 쓰는 명품가방들 팔고 왔습니다...🥲",
+                "description": "옳라프 친구들 안녕!\n오랜만에 명품 컨텐츠인 거 같아요\n안 쓰는 가방들 몇 개를 좀 정리해보려고 갔다가\n새로운 아이들만 더 데리고오게 된......사연^_^!!!\n원래 우리 옳라프 친구들이\n쇼핑, 하울 컨텐츠 너무 좋아해줬었는데\n좀 뜸했었죠..?!\n내년에는 같이 예쁜거 보는 컨텐츠도 열심히 잘 찍어볼게요?!\n오늘도 영상봐주셔서 감사하구요 좋아요 알림 구독 부탁드려요 😘\n\n\n\n\n⚡️번개장터에서 옳라프 친구들을 위해 준비한 혜택!\n\n[옳라프 전용 특별 혜택]\n\n- 링크 : https://bunj.onelink.me/0n6i/minyoung-aori\n- 번개케어로 구매하면 10,000원 페이백\n- 바로팔기/판매맡기기 신청하면 10,000원 적립\n\n[번개케어 2주년 감사제 프로모션 (12/16~12/31)]\n\n- 3초만에 퀴즈 풀고 랜덤 번개포인트 받기\n- 번개케어로 구매하고 최대 9만 원 돌려 받기\n- 매일 오전 10시 특가\n\n\n\n\n𝐓𝐢𝐦𝐞𝐥𝐢𝐧𝐞\n\n00:00 오프닝\n✨판매할 가방 고르기✨\n00:32 [블루컬러]\n01:52 [핑크컬러]\n04:54 [카멜컬러]\n09:18 가방 맡기고 새로운 가방 쇼핑🛍️\n18:47 엔딩\n\n⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰\n\n\n🎀 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦  @𝐦𝐢𝐧𝐲𝐨𝐮𝐧𝐠_𝐚𝐨𝐫𝐢\n       ㄴ https://www.instagram.com/minyoung_aori\n\n🎀 𝐋𝐨𝐚𝐫\n      ㄴ https://www.loar.co.kr\n\n🎀𝐋𝐨𝐫𝐝𝐋𝐨𝐚𝐫\n      ㄴ https://www.lordloar.com\n\n\n⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰\n\n\n\n𝐕𝐢𝐝𝐞𝐨 𝐒𝐨𝐮𝐫𝐜𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭\n\n\n🎥𝑌𝑜𝑢𝑡𝑢𝑏𝑒 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 \"𝑓𝑟𝑒𝑒𝑡𝑖𝑐𝑜𝑛\"\n     ㄴhttps://www.youtube.com/c/Freeticon\n\n🎵𝑐𝑟𝑒𝑑𝑖𝑡\nLyrics by Yuwol, View, 아옳이\nArranged by Yuwol\nMixed by Jay Sung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Q07XFIuMJY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Q07XFIuMJY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Q07XFIuMJY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5Q07XFIuMJY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5Q07XFIuMJY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아옳이",
+                "tags": [
+                    "아옳이",
+                    "김민영"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "안 쓰는 명품가방들 팔고 왔습니다...🥲",
+                    "description": "옳라프 친구들 안녕!\n오랜만에 명품 컨텐츠인 거 같아요\n안 쓰는 가방들 몇 개를 좀 정리해보려고 갔다가\n새로운 아이들만 더 데리고오게 된......사연^_^!!!\n원래 우리 옳라프 친구들이\n쇼핑, 하울 컨텐츠 너무 좋아해줬었는데\n좀 뜸했었죠..?!\n내년에는 같이 예쁜거 보는 컨텐츠도 열심히 잘 찍어볼게요?!\n오늘도 영상봐주셔서 감사하구요 좋아요 알림 구독 부탁드려요 😘\n\n\n\n\n⚡️번개장터에서 옳라프 친구들을 위해 준비한 혜택!\n\n[옳라프 전용 특별 혜택]\n\n- 링크 : https://bunj.onelink.me/0n6i/minyoung-aori\n- 번개케어로 구매하면 10,000원 페이백\n- 바로팔기/판매맡기기 신청하면 10,000원 적립\n\n[번개케어 2주년 감사제 프로모션 (12/16~12/31)]\n\n- 3초만에 퀴즈 풀고 랜덤 번개포인트 받기\n- 번개케어로 구매하고 최대 9만 원 돌려 받기\n- 매일 오전 10시 특가\n\n\n\n\n𝐓𝐢𝐦𝐞𝐥𝐢𝐧𝐞\n\n00:00 오프닝\n✨판매할 가방 고르기✨\n00:32 [블루컬러]\n01:52 [핑크컬러]\n04:54 [카멜컬러]\n09:18 가방 맡기고 새로운 가방 쇼핑🛍️\n18:47 엔딩\n\n⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰\n\n\n🎀 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦  @𝐦𝐢𝐧𝐲𝐨𝐮𝐧𝐠_𝐚𝐨𝐫𝐢\n       ㄴ https://www.instagram.com/minyoung_aori\n\n🎀 𝐋𝐨𝐚𝐫\n      ㄴ https://www.loar.co.kr\n\n🎀𝐋𝐨𝐫𝐝𝐋𝐨𝐚𝐫\n      ㄴ https://www.lordloar.com\n\n\n⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰\n\n\n\n𝐕𝐢𝐝𝐞𝐨 𝐒𝐨𝐮𝐫𝐜𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭\n\n\n🎥𝑌𝑜𝑢𝑡𝑢𝑏𝑒 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 \"𝑓𝑟𝑒𝑒𝑡𝑖𝑐𝑜𝑛\"\n     ㄴhttps://www.youtube.com/c/Freeticon\n\n🎵𝑐𝑟𝑒𝑑𝑖𝑡\nLyrics by Yuwol, View, 아옳이\nArranged by Yuwol\nMixed by Jay Sung"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "eOwfPMYD10Hg22MuCK3tG11K7LQ",
+            "id": "_GS3nQQex1g",
+            "snippet": {
+                "publishedAt": "2024-12-16T09:00:34Z",
+                "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                "title": "MARK 마크 '프락치 (Fraktsiya) (Feat. 이영지)' MV",
+                "description": "MARK's new single \"프락치 (Fraktsiya) (Feat. 이영지)\" is out!\nListen and download on your favorite platform: https://MARK.lnk.to/Fraktsiya\n\nMARK Official\nhttps://www.youtube.com/nctsmtown\nhttps://www.instagram.com/nct\nhttps://www.tiktok.com/@official_nct\nhttps://twitter.com/NCTsmtown\nhttps://www.facebook.com/NCT.smtown\n\n#MARK #마크 #프락치 #Fraktsiya\n#LEEYOUNGJI #이영지\n#NCT #NCT127 #NCTDREAM\nMARK 마크 '프락치 (Fraktsiya) (Feat. 이영지)' MV ℗ SM Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_GS3nQQex1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_GS3nQQex1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_GS3nQQex1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_GS3nQQex1g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_GS3nQQex1g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SMTOWN",
+                "tags": [
+                    "MARK",
+                    "마크",
+                    "NCT",
+                    "NCT 127",
+                    "NCT DREAM",
+                    "엔시티",
+                    "엔시티 127",
+                    "엔시티 드림",
+                    "프락치",
+                    "fraktsiya",
+                    "lee young ji",
+                    "이영지",
+                    "featuring",
+                    "피처링",
+                    "music video",
+                    "mv",
+                    "뮤직비디오",
+                    "뮤비"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "MARK 마크 '프락치 (Fraktsiya) (Feat. 이영지)' MV",
+                    "description": "MARK's new single \"프락치 (Fraktsiya) (Feat. 이영지)\" is out!\nListen and download on your favorite platform: https://MARK.lnk.to/Fraktsiya\n\nMARK Official\nhttps://www.youtube.com/nctsmtown\nhttps://www.instagram.com/nct\nhttps://www.tiktok.com/@official_nct\nhttps://twitter.com/NCTsmtown\nhttps://www.facebook.com/NCT.smtown\n\n#MARK #마크 #프락치 #Fraktsiya\n#LEEYOUNGJI #이영지\n#NCT #NCT127 #NCTDREAM\nMARK 마크 '프락치 (Fraktsiya) (Feat. 이영지)' MV ℗ SM Entertainment"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bPsUa-0SvSPUcb4jPtiwaeWISQ0",
+            "id": "lbWNdbXcQ9U",
+            "snippet": {
+                "publishedAt": "2024-12-17T11:00:53Z",
+                "channelId": "UCTx3aCntDvkq-hGtOjKVSnQ",
+                "title": "버터 3000g으로 통 랍스터 튀기기",
+                "description": "버터 3000g으로 통째로 튀긴 랍스터의 맛.\n\n(본 콘텐츠는 아정당의 지원(유료광고)을 받아 제작되었습니다.)\n\n올해 마지막 생활지원금 놓치면 손해! 100만원 상당 아정당 이벤트도 참여하세요!🎁\n👉다른 곳보다 적으면 차액의 120% 보장 https://bit.ly/49FlXNo \n👉인터넷/정수기 공식지원금 78만원 3초 확인 https://bit.ly/3ZXT7Vl\n👉휴대폰 최대 50만원+@ 비밀지원금 https://bit.ly/49Icq8e\n👉국내유일 1,000만원 보장이사 https://bit.ly/3ZY2ggo\n\n약정끝난 인터넷, 가전렌탈, 휴대폰 가만히 두면 손해!\n전화 한통에 인터넷tv 최대 48만원\n가전 렌탈 최대 30만원 지원금 제발… 받아가세요!\n최신형 갤럭시 아이폰 전환지원금 최대 50만원 + 비밀지원금까지!?\n\n역시 홈서비스 만능 아정당👍\n불만족시 100% 전액 환불 \"보장이사\"도 가능해요!\n\n아정당이 전국 가입자 수 1위인 이유?!\n✔ 업계유일 24시간 365일 무료상담 초고속설치! \n✔가장 많은 수당으로 최대 현금 보장!\n✔ 혜택이 타사보다 적으면? 차액의 120% 보상제 실시 \n✔ 설치 당일 현금 입금 원칙\n✔ 휴대폰 지금 주문하면 당일 발송!\n\n📞대표번호 1833 - 3504\n💬카톡3초 문의 https://bit.ly/49FiONy\n\n[재료 및 조리도구 정보 모음]\n랍스터, 기버터, 피망, 마늘, 고수, 모짜렐라 치즈, 마라소스\n\n[BGM] Artlist\nhttps://artlist.io/referral/1910447/trytoeat222\n이 URL을 통해 구독하시면 2개월 추가 혜택을 받으실 수 있고, \n저도 2개월 구독 연장 혜택을 받습니닷🔥\n\n[영상 저작권] 먹어볼래TryToEat (영상 무단도용 금지)\n\n[비즈니스 문의❤️] \n이메일: trytoeat222@naver.com\n인스타: @trytoeat222",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lbWNdbXcQ9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lbWNdbXcQ9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lbWNdbXcQ9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lbWNdbXcQ9U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lbWNdbXcQ9U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "먹어볼래TryToEat",
+                "tags": [
+                    "버터",
+                    "랍스터",
+                    "butter",
+                    "lobster",
+                    "먹어볼래"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "버터 3000g으로 통 랍스터 튀기기",
+                    "description": "버터 3000g으로 통째로 튀긴 랍스터의 맛.\n\n(본 콘텐츠는 아정당의 지원(유료광고)을 받아 제작되었습니다.)\n\n올해 마지막 생활지원금 놓치면 손해! 100만원 상당 아정당 이벤트도 참여하세요!🎁\n👉다른 곳보다 적으면 차액의 120% 보장 https://bit.ly/49FlXNo \n👉인터넷/정수기 공식지원금 78만원 3초 확인 https://bit.ly/3ZXT7Vl\n👉휴대폰 최대 50만원+@ 비밀지원금 https://bit.ly/49Icq8e\n👉국내유일 1,000만원 보장이사 https://bit.ly/3ZY2ggo\n\n약정끝난 인터넷, 가전렌탈, 휴대폰 가만히 두면 손해!\n전화 한통에 인터넷tv 최대 48만원\n가전 렌탈 최대 30만원 지원금 제발… 받아가세요!\n최신형 갤럭시 아이폰 전환지원금 최대 50만원 + 비밀지원금까지!?\n\n역시 홈서비스 만능 아정당👍\n불만족시 100% 전액 환불 \"보장이사\"도 가능해요!\n\n아정당이 전국 가입자 수 1위인 이유?!\n✔ 업계유일 24시간 365일 무료상담 초고속설치! \n✔가장 많은 수당으로 최대 현금 보장!\n✔ 혜택이 타사보다 적으면? 차액의 120% 보상제 실시 \n✔ 설치 당일 현금 입금 원칙\n✔ 휴대폰 지금 주문하면 당일 발송!\n\n📞대표번호 1833 - 3504\n💬카톡3초 문의 https://bit.ly/49FiONy\n\n[재료 및 조리도구 정보 모음]\n랍스터, 기버터, 피망, 마늘, 고수, 모짜렐라 치즈, 마라소스\n\n[BGM] Artlist\nhttps://artlist.io/referral/1910447/trytoeat222\n이 URL을 통해 구독하시면 2개월 추가 혜택을 받으실 수 있고, \n저도 2개월 구독 연장 혜택을 받습니닷🔥\n\n[영상 저작권] 먹어볼래TryToEat (영상 무단도용 금지)\n\n[비즈니스 문의❤️] \n이메일: trytoeat222@naver.com\n인스타: @trytoeat222"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "H0Svgx-LSh8LNfSSzR0KO-1ArFg",
+            "id": "Vg1ww-xIx6k",
+            "snippet": {
+                "publishedAt": "2024-12-16T12:00:39Z",
+                "channelId": "UC9idb-NIhZrI6wkPesc3MUg",
+                "title": "★무도 20주년 일력 최초공개★ 무도 비하인드 탈탈 털며 일력 언박싱했슴묘ㅣ#무한도전 #박명수",
+                "description": "📆 무한도전 20주년 기념 2025 일력 출시 📆 \n✔️ 교보문고 온라인몰 : 상단 쇼핑탭 링크\n✔️ 교보문고 오프라인몰(한정 수량)\n12월 21일부터 교보문고 광화문점, 강남점, 합정점, 일산점에서 구매하실 수 있습니다. \n자세한 안내는 판매처인 교보문고 안내를 참고해주세요. \nhttps://event.kyobobook.co.kr/detail/228707\n\n✔️ 판매수익금은 전액 기부됩니다.\n\n\n#박명수 #무한도전 #20주년\n\n⏰타임코드⏰\n0:00 하이라이트\n0:14 무도 썰 푸는 명수\n 4:43 무도 일력 댓글 읽기\n6:03 기억에 남는 무도 에피는?\n8:50 명수는 무도퀴즈를 얼마나 맞힐까?\n13:30 2025 일력 언박싱\n19:52 클로징(팬들에게 전하고 싶은 말)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vg1ww-xIx6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vg1ww-xIx6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vg1ww-xIx6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vg1ww-xIx6k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vg1ww-xIx6k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "오분순삭",
+                "tags": [
+                    "무한도전",
+                    "박명수",
+                    "일력",
+                    "무한도전 일력",
+                    "2025",
+                    "달력",
+                    "시즌2",
+                    "유재석",
+                    "정준하",
+                    "정형돈",
+                    "하하",
+                    "노홍철",
+                    "교보문고",
+                    "언박싱",
+                    "레전드",
+                    "무도 레전드",
+                    "20주년",
+                    "무한도전 20주년"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "★무도 20주년 일력 최초공개★ 무도 비하인드 탈탈 털며 일력 언박싱했슴묘ㅣ#무한도전 #박명수",
+                    "description": "📆 무한도전 20주년 기념 2025 일력 출시 📆 \n✔️ 교보문고 온라인몰 : 상단 쇼핑탭 링크\n✔️ 교보문고 오프라인몰(한정 수량)\n12월 21일부터 교보문고 광화문점, 강남점, 합정점, 일산점에서 구매하실 수 있습니다. \n자세한 안내는 판매처인 교보문고 안내를 참고해주세요. \nhttps://event.kyobobook.co.kr/detail/228707\n\n✔️ 판매수익금은 전액 기부됩니다.\n\n\n#박명수 #무한도전 #20주년\n\n⏰타임코드⏰\n0:00 하이라이트\n0:14 무도 썰 푸는 명수\n 4:43 무도 일력 댓글 읽기\n6:03 기억에 남는 무도 에피는?\n8:50 명수는 무도퀴즈를 얼마나 맞힐까?\n13:30 2025 일력 언박싱\n19:52 클로징(팬들에게 전하고 싶은 말)"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IDvU8ED1DOVUG34oIgMF1zCDujg",
+            "id": "yI0BNkRQWYE",
+            "snippet": {
+                "publishedAt": "2024-12-16T09:01:05Z",
+                "channelId": "UCn9KYvuAq5bcwqkb8HNtJyg",
+                "title": "Park Hyo Shin (박효신) ‘HERO’ (From the Film \"Firefighters”) Official MV",
+                "description": "전하고 싶은 마음의 크기가 클수록 그걸 담을 곡을 만드는 시간은 길어진다.\n이 곡은 덜어내는 것과의 싸움이었다. 이야기와 감정이 선명히 드러나게 하고 싶었기 때문이다. 서서히 드러나는 작고 디테일한 소리들이 켜켜이 쌓이는 진행을 통해 노래에 담긴 감정이 느껴지길 바랐다. 작사, 작곡, 편곡 등 모든 과정에서 화려하게 드러내는 테크닉을 최대한 배제했는데, 이것은 꽤나 용기를 내야 하는 작업이었다.\n가사는 누군가가 당신의 매일의 무탈함을 간절히 바란다는 편지를 쓰는 마음으로 완성했다. 노래 속의 나는 제일 빛나는 순간보다는 평범한 일상을 지켜주는 작은 영웅이 되는 상상을 했다.\n \n연말, 남아있는 후회와 아픔, 어지러이 뒤섞인 모든 것들이 그저 고요한 기록으로만 남겨지길 바라는 마음을 전하며.\n박효신.\n\nThe bigger the emotions I wish to convey, the longer it takes to create a song that can hold them.\nThis song was a battle of letting go—because I wanted the story and emotions to come through clearly. I hoped that the gradually emerging, small and intricate sounds, layered one by one, would allow the feelings embedded in the song to be felt. Throughout the processes of writing, composing, and arranging, I minimized flashy techniques as much as possible, which required a considerable amount of courage.\n\nThe lyrics were completed with the heart of writing a letter—someone sincerely wishing for your everyday safety and well-being. In this song, I imagined myself not as a hero in the brightest of moments, but as a small hero protecting the ordinary days.\n\nAs the year comes to an end, I send this with the hope that any lingering regrets, pains, and the chaotic mix of everything will simply remain as quiet records.\n\n— Park Hyo Shin.\n\n■ Park Hyo Shin - ‘HERO’ (From the Film \"Firefighters”)\n\n□ Spotify : https://spoti.fi/3ByKCqf\n□ Apple Music : https://apple.co/3OVmIbs\n□ Youtube Music : https://bit.ly/3ZWTgbe\n□ Melon: https://bit.ly/49MgeoX\n□ Genie : https://bit.ly/49BgWFv\n□ Bugs : https://bit.ly/4gggA9U\n□ FLO: https://bit.ly/4iEYfFa\n□ Vibe : https://bit.ly/3DiYNjF\n\n\n[Park Hyo Shin Official]\nhttps://www.instagram.com/parkhyoshin.official\n\n[HERBIGHARO Official]\nhttps://herbigharo.space\nhttps://x.com/herbigharo_091\nhttps://www.instagram.com/herbigharo.company\n\n#박효신 #ParkHyoShin #HERO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yI0BNkRQWYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yI0BNkRQWYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yI0BNkRQWYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yI0BNkRQWYE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "박효신 PARK HYO SHIN",
+                "tags": [
+                    "Parkhyoshin",
+                    "박효신",
+                    "HERBIGHARO",
+                    "허비그하로",
+                    "효신",
+                    "HYO SHIN",
+                    "야생화",
+                    "Goodbye",
+                    "home",
+                    "Beautiful Tomorrow",
+                    "happy together",
+                    "뮤지컬",
+                    "베토벤",
+                    "웃는남자",
+                    "팬텀",
+                    "Winter Ahead",
+                    "눈의꽃",
+                    "연인",
+                    "동경",
+                    "겨울소리",
+                    "Gift",
+                    "뷔",
+                    "Winterahead",
+                    "BTS",
+                    "김태형",
+                    "소방관",
+                    "OST",
+                    "주원"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Park Hyo Shin (박효신) ‘HERO’ (From the Film \"Firefighters”) Official MV",
+                    "description": "전하고 싶은 마음의 크기가 클수록 그걸 담을 곡을 만드는 시간은 길어진다.\n이 곡은 덜어내는 것과의 싸움이었다. 이야기와 감정이 선명히 드러나게 하고 싶었기 때문이다. 서서히 드러나는 작고 디테일한 소리들이 켜켜이 쌓이는 진행을 통해 노래에 담긴 감정이 느껴지길 바랐다. 작사, 작곡, 편곡 등 모든 과정에서 화려하게 드러내는 테크닉을 최대한 배제했는데, 이것은 꽤나 용기를 내야 하는 작업이었다.\n가사는 누군가가 당신의 매일의 무탈함을 간절히 바란다는 편지를 쓰는 마음으로 완성했다. 노래 속의 나는 제일 빛나는 순간보다는 평범한 일상을 지켜주는 작은 영웅이 되는 상상을 했다.\n \n연말, 남아있는 후회와 아픔, 어지러이 뒤섞인 모든 것들이 그저 고요한 기록으로만 남겨지길 바라는 마음을 전하며.\n박효신.\n\nThe bigger the emotions I wish to convey, the longer it takes to create a song that can hold them.\nThis song was a battle of letting go—because I wanted the story and emotions to come through clearly. I hoped that the gradually emerging, small and intricate sounds, layered one by one, would allow the feelings embedded in the song to be felt. Throughout the processes of writing, composing, and arranging, I minimized flashy techniques as much as possible, which required a considerable amount of courage.\n\nThe lyrics were completed with the heart of writing a letter—someone sincerely wishing for your everyday safety and well-being. In this song, I imagined myself not as a hero in the brightest of moments, but as a small hero protecting the ordinary days.\n\nAs the year comes to an end, I send this with the hope that any lingering regrets, pains, and the chaotic mix of everything will simply remain as quiet records.\n\n— Park Hyo Shin.\n\n■ Park Hyo Shin - ‘HERO’ (From the Film \"Firefighters”)\n\n□ Spotify : https://spoti.fi/3ByKCqf\n□ Apple Music : https://apple.co/3OVmIbs\n□ Youtube Music : https://bit.ly/3ZWTgbe\n□ Melon: https://bit.ly/49MgeoX\n□ Genie : https://bit.ly/49BgWFv\n□ Bugs : https://bit.ly/4gggA9U\n□ FLO: https://bit.ly/4iEYfFa\n□ Vibe : https://bit.ly/3DiYNjF\n\n\n[Park Hyo Shin Official]\nhttps://www.instagram.com/parkhyoshin.official\n\n[HERBIGHARO Official]\nhttps://herbigharo.space\nhttps://x.com/herbigharo_091\nhttps://www.instagram.com/herbigharo.company\n\n#박효신 #ParkHyoShin #HERO"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "CfrxgnbokR73Pzg9Uw-9xB9f_-0",
+            "id": "RdntIrqWY_w",
+            "snippet": {
+                "publishedAt": "2024-12-17T03:00:25Z",
+                "channelId": "UC5hq0vE25nDkkF7-acdALXg",
+                "title": "[신곡Live클립] 전유진 미니앨범 두 번째 수록곡 [나비야]｜현역가왕 우승특전 미니앨범 [ONLY YOU]",
+                "description": "현역가왕 우승특전 미니앨범 [ONLY YOU]\n\n제 1대 현역가왕 전유진의\n우승특전 미니앨범 [ONLY YOU]\n두 번째로 공개된 서정적인 발라드곡 [나비야] LIVE CLIP이 \n12월 16일 한일톱텐쇼 라이브 클립 공개\n12월 17일 정오 음원이 공개됩니다\n\n#전유진 #나비야 #라이브클립 #MV\n#현역가왕 #우승특전 #온리유",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RdntIrqWY_w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RdntIrqWY_w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RdntIrqWY_w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RdntIrqWY_w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RdntIrqWY_w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "현역가왕&한일가왕전",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[신곡Live클립] 전유진 미니앨범 두 번째 수록곡 [나비야]｜현역가왕 우승특전 미니앨범 [ONLY YOU]",
+                    "description": "현역가왕 우승특전 미니앨범 [ONLY YOU]\n\n제 1대 현역가왕 전유진의\n우승특전 미니앨범 [ONLY YOU]\n두 번째로 공개된 서정적인 발라드곡 [나비야] LIVE CLIP이 \n12월 16일 한일톱텐쇼 라이브 클립 공개\n12월 17일 정오 음원이 공개됩니다\n\n#전유진 #나비야 #라이브클립 #MV\n#현역가왕 #우승특전 #온리유"
+                },
+                "defaultAudioLanguage": "ja"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "UhX4nDmS2C4NciZdtfFpXPMcJ60",
+            "id": "qV42Tc3iBo8",
+            "snippet": {
+                "publishedAt": "2024-12-17T10:00:56Z",
+                "channelId": "UCA6Z6cF3orXMmdeCPUH1-NA",
+                "title": "제6회 보드게임 동호회",
+                "description": "오늘의 멤버: 카더가든, 넉살, 프로미스나인 박지원, 송하영, 오존, 목사님\n오늘의 게임: 할리갈리 컵스, 모자가 아니잖아, 마헤\n\n#카더정원 #카더가든",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qV42Tc3iBo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qV42Tc3iBo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qV42Tc3iBo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qV42Tc3iBo8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qV42Tc3iBo8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "카더정원",
+                "tags": [
+                    "카더정원",
+                    "카더가든",
+                    "보드게임",
+                    "넉살",
+                    "오존",
+                    "프로미스나인"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "제6회 보드게임 동호회",
+                    "description": "오늘의 멤버: 카더가든, 넉살, 프로미스나인 박지원, 송하영, 오존, 목사님\n오늘의 게임: 할리갈리 컵스, 모자가 아니잖아, 마헤\n\n#카더정원 #카더가든"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BdU4iR8VkLT6PmyMSslbMq8pvFg",
+            "id": "Od7bzR9c1_4",
+            "snippet": {
+                "publishedAt": "2024-12-15T13:25:53Z",
+                "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+                "title": "정말 인터넷을 끊으셨나요? ＜흑백요리사＞ 종영 후 잠적하고(?) 모습을 드러낸 ⭐조림핑 최강록⭐｜냉장고를 부탁해｜JTBC 241215 방송",
+                "description": "＜흑백요리사＞ 노를 버리고 잠적한 최강록이 냉부해에 출연한 이유는?!\n\n#냉장고를부탁해 #냉부해 #최강록\n\n[JTBC봐야지] 구독하기☞ https://url.kr/q9raxe\n\n------------------------------------------------------\n* 영상 속 프로그램은?\n\n【냉장고를 부탁해 since 2014】\nhttps://tv.jtbc.co.kr/janggosince2014\n------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Od7bzR9c1_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Od7bzR9c1_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Od7bzR9c1_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Od7bzR9c1_4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Od7bzR9c1_4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Voyage",
+                "tags": [
+                    "genre:쿡방",
+                    "format:하이라이트",
+                    "source:요리",
+                    "type:방송",
+                    "series:냉장고를부탁해",
+                    "topic:경연",
+                    "person:최강록",
+                    "김성주",
+                    "안정환",
+                    "이연복",
+                    "최현석",
+                    "김풍",
+                    "정호영",
+                    "에드워드리",
+                    "최강록",
+                    "이미영",
+                    "박은영",
+                    "냉장고를부탁해",
+                    "냉부해",
+                    "냉부해2",
+                    "흑백요리사",
+                    "요리",
+                    "셰프",
+                    "쉐프",
+                    "대결",
+                    "조림핑",
+                    "중식여신",
+                    "급식대가",
+                    "노젓기",
+                    "들기름",
+                    "이균",
+                    "15분",
+                    "여경래",
+                    "영탁",
+                    "침착맨",
+                    "이병건"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "정말 인터넷을 끊으셨나요? ＜흑백요리사＞ 종영 후 잠적하고(?) 모습을 드러낸 ⭐조림핑 최강록⭐｜냉장고를 부탁해｜JTBC 241215 방송",
+                    "description": "＜흑백요리사＞ 노를 버리고 잠적한 최강록이 냉부해에 출연한 이유는?!\n\n#냉장고를부탁해 #냉부해 #최강록\n\n[JTBC봐야지] 구독하기☞ https://url.kr/q9raxe\n\n------------------------------------------------------\n* 영상 속 프로그램은?\n\n【냉장고를 부탁해 since 2014】\nhttps://tv.jtbc.co.kr/janggosince2014\n------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-dksUzykNNfAQRa0-m0-ZOHjIbI",
+            "id": "GnWfwz7JWkE",
+            "snippet": {
+                "publishedAt": "2024-12-16T11:00:29Z",
+                "channelId": "UCvAewWPqooIUgQUsjhTmUVw",
+                "title": "김숙X장혜진, 코미디언과 배우가 된 부산 연기학원 동기 두 친구의 이야기",
+                "description": "#먹방 #캠핑 #장혜진\n\n본 영상은 설로인의 유료 광고를 포함하고 있습니다.\n\n드디어 혜진이가 캠핑장에 왔습니다!!\n연기학원 동기에서 오스카까지 진출한\n자랑스러운 배우가 된 내 친구...🥹\n실땡이들 앞으로도 혜진이 많이 응원해줘!\n\n❤️실땡이를 위한 연말 선물 이벤트❤️\n\n연말을 기념하여 숙 산타가 선물을 쏩니다!\n오늘 영상을 보고 감상평을 남겨주시면\n추첨을 통해 '설로인 한우 갈비 BBQ 세트'를 드립니다!\n\n- 이벤트 기간: 12/16(월)~12/22(일)\n- 당첨 발표: 12/24(화)\n- 배송 날짜: 12/26(목) 이후\n- 경품: 한우 갈비 BBQ SET \n- 인원: 10명\n\n🍖설로인 한우 갈비 BBQ 에디션🍖\n15% 즉시 할인 + 실땡이 전용 쿠폰 5% 할인!\n최대 20% 즉시 할인 받고 연말 홈파티 준비해요\n\n👉🏻  https://www.sirloin.co.kr/products/1100000376?utm_source=yt_influencer&utm_medium=yt_influencer_kimsooktv&utm_campaign=influencer_mkt_bbqedition\n\n[쿠폰 등록 방법]\n1. 설로인 마이페이지 접속\n2. 쿠폰 메뉴로 이동\n3. 쿠폰 코드 [2024kimsook] 입력 후, 5% 추가 할인 쿠폰 발급\n*12/24일까지 쿠폰 사용 가능✨\n\n연말을 빛내 줄 마법같은 만찬, 설로인 한우 갈비 BBQ 에디션을 만나보세요. #설로인\n\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GnWfwz7JWkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GnWfwz7JWkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GnWfwz7JWkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GnWfwz7JWkE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GnWfwz7JWkE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김숙티비kimsookTV",
+                "tags": [
+                    "김숙",
+                    "kimsook",
+                    "갓숙",
+                    "비보티비",
+                    "비밀보장",
+                    "金淑",
+                    "comedian",
+                    "숙티비",
+                    "김숙유튜브",
+                    "캠핑",
+                    "장혜진",
+                    "정년이",
+                    "기생충",
+                    "고기",
+                    "소고기",
+                    "캠핑요리",
+                    "장박",
+                    "캠핑음식",
+                    "먹방",
+                    "바베큐",
+                    "바비큐",
+                    "bbq",
+                    "드라마",
+                    "옷소매",
+                    "한예종",
+                    "우리들",
+                    "대도시의사랑법",
+                    "사랑의불시착",
+                    "장혜진배우",
+                    "댓글이벤트",
+                    "댓글",
+                    "이벤트"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "김숙X장혜진, 코미디언과 배우가 된 부산 연기학원 동기 두 친구의 이야기",
+                    "description": "#먹방 #캠핑 #장혜진\n\n본 영상은 설로인의 유료 광고를 포함하고 있습니다.\n\n드디어 혜진이가 캠핑장에 왔습니다!!\n연기학원 동기에서 오스카까지 진출한\n자랑스러운 배우가 된 내 친구...🥹\n실땡이들 앞으로도 혜진이 많이 응원해줘!\n\n❤️실땡이를 위한 연말 선물 이벤트❤️\n\n연말을 기념하여 숙 산타가 선물을 쏩니다!\n오늘 영상을 보고 감상평을 남겨주시면\n추첨을 통해 '설로인 한우 갈비 BBQ 세트'를 드립니다!\n\n- 이벤트 기간: 12/16(월)~12/22(일)\n- 당첨 발표: 12/24(화)\n- 배송 날짜: 12/26(목) 이후\n- 경품: 한우 갈비 BBQ SET \n- 인원: 10명\n\n🍖설로인 한우 갈비 BBQ 에디션🍖\n15% 즉시 할인 + 실땡이 전용 쿠폰 5% 할인!\n최대 20% 즉시 할인 받고 연말 홈파티 준비해요\n\n👉🏻  https://www.sirloin.co.kr/products/1100000376?utm_source=yt_influencer&utm_medium=yt_influencer_kimsooktv&utm_campaign=influencer_mkt_bbqedition\n\n[쿠폰 등록 방법]\n1. 설로인 마이페이지 접속\n2. 쿠폰 메뉴로 이동\n3. 쿠폰 코드 [2024kimsook] 입력 후, 5% 추가 할인 쿠폰 발급\n*12/24일까지 쿠폰 사용 가능✨\n\n연말을 빛내 줄 마법같은 만찬, 설로인 한우 갈비 BBQ 에디션을 만나보세요. #설로인\n\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다."
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3DRxZFnq-LTHFrINNf9NIZIQI_M",
+            "id": "3-cMIk28YhE",
+            "snippet": {
+                "publishedAt": "2024-12-15T23:51:59Z",
+                "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+                "title": "손흥민, 45분이면 충분했다 → 토트넘 역대 최다 도움 경신 #SPOTIME",
+                "description": "#사우스햄튼 #토트넘 #손흥민 #PL16R\n\n손흥민이 단 45분만으로도 토트넘의 대승을 이끌었습니다. \n\n1골 2도움을 기록하며 팀의 5-0 승리에 결정적인 기여를 했고, 토트넘 역대 최다 도움 기록을 갈아치우는 역사적인 날을 만들었습니다. \n\n이날 경기에서 손흥민은 전반만 소화했음에도 팬 선정 경기 최우수 선수(MOM)로 선정되며 토트넘의 주축 선수임을 다시 한 번 입증했습니다.\n\n👇 24-25 PL, UCL 시청하기 👇\n\nSPOTV PRIME 📺👀 ☞  https://www.spotvprime.co.kr/channel\n\nSPOTV NOW 💻📱 ☞ https://www.spotvnow.co.kr/football/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3-cMIk28YhE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3-cMIk28YhE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3-cMIk28YhE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3-cMIk28YhE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3-cMIk28YhE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "스포타임",
+                "tags": [
+                    "SPOTV",
+                    "SPOTIME",
+                    "스포타임",
+                    "김하성",
+                    "손흥민",
+                    "황희찬",
+                    "프리미어리그",
+                    "PL",
+                    "세리에A",
+                    "MLB",
+                    "메이저리그",
+                    "오타니",
+                    "현지해설",
+                    "인터뷰",
+                    "활약상",
+                    "김민재",
+                    "이강인",
+                    "챔피언스리그",
+                    "UCL",
+                    "챔스",
+                    "유로파",
+                    "하이라이트",
+                    "NBA",
+                    "세인트 메리스 스타디움",
+                    "사우스햄튼",
+                    "토트넘",
+                    "사우스햄튼 토트넘",
+                    "사우스햄튼 토트넘 하이라이트",
+                    "손흥민 활약상",
+                    "손흥민 주요장면",
+                    "PL 16R",
+                    "16라운드",
+                    "손흥민 어시",
+                    "손흥민 도움",
+                    "러셀 마틴",
+                    "맥카시",
+                    "워커-피터스",
+                    "베드나렉",
+                    "매닝",
+                    "다운스",
+                    "페르난데스",
+                    "아리보",
+                    "술레마나",
+                    "디블링",
+                    "암스트롱",
+                    "포스테코글루",
+                    "솔란키",
+                    "포스터",
+                    "스펜스",
+                    "그레이",
+                    "드라구신",
+                    "우도기",
+                    "사르",
+                    "베리발",
+                    "매디슨",
+                    "클루셉스키"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "손흥민, 45분이면 충분했다 → 토트넘 역대 최다 도움 경신 #SPOTIME",
+                    "description": "#사우스햄튼 #토트넘 #손흥민 #PL16R\n\n손흥민이 단 45분만으로도 토트넘의 대승을 이끌었습니다. \n\n1골 2도움을 기록하며 팀의 5-0 승리에 결정적인 기여를 했고, 토트넘 역대 최다 도움 기록을 갈아치우는 역사적인 날을 만들었습니다. \n\n이날 경기에서 손흥민은 전반만 소화했음에도 팬 선정 경기 최우수 선수(MOM)로 선정되며 토트넘의 주축 선수임을 다시 한 번 입증했습니다.\n\n👇 24-25 PL, UCL 시청하기 👇\n\nSPOTV PRIME 📺👀 ☞  https://www.spotvprime.co.kr/channel\n\nSPOTV NOW 💻📱 ☞ https://www.spotvnow.co.kr/football/"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7BhtjK_UQPky8MT0UoJIT_biMm8",
+            "id": "HtYT6vb2aVg",
+            "snippet": {
+                "publishedAt": "2024-12-16T14:19:29Z",
+                "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+                "title": "CCTV 분석에만 70명! 사라진 부부는 어디로 갔을까? #highlight #이말을꼭하고싶었어요. EP.10",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#이말을꼭하고싶었어요 #이말꼭 \n#김창완\n이 말을 꼭 하고 싶었어요 EP.10\n\n“안녕하세요~ 김창완입니다.”\n도시의 야경이 내려다보이는 루프탑 부스.\n그 공간에 울려 퍼지는 김창완의 목소리.\n‘이 말을 꼭 하고 싶었어요. 다른 누구도 아닌 당신에게.’\n\n〈이 말을 꼭 하고 싶었어요〉\n\n매주 [월] 밤 10:10 tvN 방송\n\n#티빙에서스트리밍",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HtYT6vb2aVg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HtYT6vb2aVg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HtYT6vb2aVg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HtYT6vb2aVg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HtYT6vb2aVg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tvN",
+                "tags": [
+                    "tvN",
+                    "tvN에서봐",
+                    "김창완",
+                    "스트리밍은 tving",
+                    "이말꼭",
+                    "이말을꼭하고싶었어요",
+                    "티빙에서스트리밍"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "CCTV 분석에만 70명! 사라진 부부는 어디로 갔을까? #highlight #이말을꼭하고싶었어요. EP.10",
+                    "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#이말을꼭하고싶었어요 #이말꼭 \n#김창완\n이 말을 꼭 하고 싶었어요 EP.10\n\n“안녕하세요~ 김창완입니다.”\n도시의 야경이 내려다보이는 루프탑 부스.\n그 공간에 울려 퍼지는 김창완의 목소리.\n‘이 말을 꼭 하고 싶었어요. 다른 누구도 아닌 당신에게.’\n\n〈이 말을 꼭 하고 싶었어요〉\n\n매주 [월] 밤 10:10 tvN 방송\n\n#티빙에서스트리밍"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HrRZnrs71_qwgpeJTXl2OI7DSfY",
+            "id": "2rwrOtpQCl4",
+            "snippet": {
+                "publishedAt": "2024-12-16T09:00:02Z",
+                "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+                "title": "[아이유의 팔레트🎨] 미리 메리 트아이스마스유 (With TWICE) Ep.30",
+                "description": "[IU's Palette] Merry TWICEmas to U ahead (With TWICE) Ep.30\n\n#아이유 #TWICE #아이유의팔레트\n\n[IU Official SNS]\n\nYouTube ▶ https://www.youtube.com/@dlwlrma\nInstagram ▶ https://www.instagram.com/dlwlrma/\nInstagram ▶ https://www.instagram.com/iu_edamofficial/\nX ▶https://twitter.com/_IUofficial\nTiktok ▶ https://www.tiktok.com/@_iuofficial\nFancafe ▶ https://cafe.daum.net/IU",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2rwrOtpQCl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2rwrOtpQCl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2rwrOtpQCl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2rwrOtpQCl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2rwrOtpQCl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "이지금 [IU Official]",
+                "tags": [
+                    "IU",
+                    "아이유",
+                    "이담",
+                    "EDAM",
+                    "이지금",
+                    "dlwlrma",
+                    "아이유tv",
+                    "아티비",
+                    "아이유티비",
+                    "아이유의팔레트",
+                    "팔레트",
+                    "twice",
+                    "나연",
+                    "정연",
+                    "지효",
+                    "모모",
+                    "사나",
+                    "채영",
+                    "쯔위",
+                    "미나",
+                    "다현",
+                    "Strategy",
+                    "있잖아",
+                    "Alcohol-Free",
+                    "알콜프리",
+                    "트와이스"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[아이유의 팔레트🎨] 미리 메리 트아이스마스유 (With TWICE) Ep.30",
+                    "description": "[IU's Palette] Merry TWICEmas to U ahead (With TWICE) Ep.30\n\n#아이유 #TWICE #아이유의팔레트\n\n[IU Official SNS]\n\nYouTube ▶ https://www.youtube.com/@dlwlrma\nInstagram ▶ https://www.instagram.com/dlwlrma/\nInstagram ▶ https://www.instagram.com/iu_edamofficial/\nX ▶https://twitter.com/_IUofficial\nTiktok ▶ https://www.tiktok.com/@_iuofficial\nFancafe ▶ https://cafe.daum.net/IU"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zJxsTi2rk0giOkS-mdPUqLpoJcw",
+            "id": "0bJeo_aya78",
+            "snippet": {
+                "publishedAt": "2024-12-18T02:20:44Z",
+                "channelId": "UCYyLIlOJyqkAFKlVjzX5img",
+                "title": "[#현역가왕2] \"20년 허송세월 보낸 것 같다..\" 패자 부활전에 사활을 건 현역들! #치트키",
+                "description": "현역가왕2 4회 241217 방송\n\n#MBN #현역가왕2 #방출 #패자부활전\n\n👉MBN ENTERTAINMENT 구독하기 \nhttps://www.youtube.com/c/MBN_Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0bJeo_aya78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0bJeo_aya78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0bJeo_aya78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0bJeo_aya78/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0bJeo_aya78/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MBN Entertainment",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[#현역가왕2] \"20년 허송세월 보낸 것 같다..\" 패자 부활전에 사활을 건 현역들! #치트키",
+                    "description": "현역가왕2 4회 241217 방송\n\n#MBN #현역가왕2 #방출 #패자부활전\n\n👉MBN ENTERTAINMENT 구독하기 \nhttps://www.youtube.com/c/MBN_Entertainment"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "cYh9g9t0W0WslY85kglUJQjsY4o",
+            "id": "SCoIumnhQW0",
+            "snippet": {
+                "publishedAt": "2024-12-15T08:00:24Z",
+                "channelId": "UCN5XdqTDRbyjXPF5NXUqWdA",
+                "title": "애들아 우리 예능 회사야 음악 회사야…? 아니 쫌ㅠ;;",
+                "description": "바보들..! \n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n‼️품절 임박‼️ 한맥 홀리데이 패키지\n한맥 엑스트라 크리미 生 거품기와 홀리데이 메시지 카드까지! \n️✔️포켓CU: https://bit.ly/41thvz3\n✔️ 카카오톡 선물하기: https://kko.kakao.com/_T0Z4HKP-t\n✔️ 우리동네GS: https://bit.ly/3ZNcJeI\n* 전국 대형마트에서도 만나보실 수 있어요! (판매처 방문 전 유선으로 재고 확인 권장)\n\n💚 꼬요들을 위해 준비한 요정재형 이벤트💚\n✔️ 참여기간: 12/15(일)~12/25(수)\n✔️ 당첨자 발표: 1/3(금)\n✔️ 참여방법: 스스로를 격려하는 '한맥 2행시'를 댓글에 남긴 후 응모폼 제출\n✔️ 이벤트 응모하기: https://forms.gle/43Xmj6Gy8vcLNAMf9\n\n※ 본 영상은 한맥의 유료광고가 포함되어 있습니다 ※\n#한맥 #엑스트라크리미생 #엑스트라크리미생거품기\n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n00:00 하이라이트\n00:56 오프닝\n05:09 바보들 입장😍\n45:15 노래자랑",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SCoIumnhQW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SCoIumnhQW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SCoIumnhQW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SCoIumnhQW0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SCoIumnhQW0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "요정재형",
+                "tags": [
+                    "정재형",
+                    "요정재형",
+                    "요정",
+                    "페어리",
+                    "강민경",
+                    "걍밍경",
+                    "유재석",
+                    "뜬뜬",
+                    "뚠뚠",
+                    "이미주",
+                    "미주",
+                    "런닝맨",
+                    "이적",
+                    "다행이다",
+                    "안테나뮤직",
+                    "안테나",
+                    "유희열",
+                    "이효리",
+                    "해듬이",
+                    "강아지",
+                    "반려견",
+                    "반려인",
+                    "해듬",
+                    "시각장애인",
+                    "시각장애인 안내견",
+                    "안내견",
+                    "안내견학교",
+                    "삼성화재 안내견학교",
+                    "피아노",
+                    "피아노 연주",
+                    "정재형 피아노",
+                    "무한도전",
+                    "무한도전 정재형",
+                    "순정마초",
+                    "무한도전 순정마초",
+                    "정재형 순정마초",
+                    "애견인",
+                    "파리지앵",
+                    "프랑스어",
+                    "화분",
+                    "정원",
+                    "가드닝",
+                    "베란다 가드닝",
+                    "리트리버",
+                    "래브라도 리트리버",
+                    "엄정화",
+                    "이상순",
+                    "성시경",
+                    "running",
+                    "식물",
+                    "식집사",
+                    "식물 키우기",
+                    "베란다 정원",
+                    "정원 꾸미기",
+                    "연말파티",
+                    "연말모임",
+                    "이장원",
+                    "페퍼톤스",
+                    "페퍼톤스 라이브",
+                    "신재평",
+                    "루시드폴",
+                    "이효리 이상순",
+                    "이상순 이효리",
+                    "이효리 이사",
+                    "이상순 이사",
+                    "이효리 서울",
+                    "이상순 서울"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "애들아 우리 예능 회사야 음악 회사야…? 아니 쫌ㅠ;;",
+                    "description": "바보들..! \n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n‼️품절 임박‼️ 한맥 홀리데이 패키지\n한맥 엑스트라 크리미 生 거품기와 홀리데이 메시지 카드까지! \n️✔️포켓CU: https://bit.ly/41thvz3\n✔️ 카카오톡 선물하기: https://kko.kakao.com/_T0Z4HKP-t\n✔️ 우리동네GS: https://bit.ly/3ZNcJeI\n* 전국 대형마트에서도 만나보실 수 있어요! (판매처 방문 전 유선으로 재고 확인 권장)\n\n💚 꼬요들을 위해 준비한 요정재형 이벤트💚\n✔️ 참여기간: 12/15(일)~12/25(수)\n✔️ 당첨자 발표: 1/3(금)\n✔️ 참여방법: 스스로를 격려하는 '한맥 2행시'를 댓글에 남긴 후 응모폼 제출\n✔️ 이벤트 응모하기: https://forms.gle/43Xmj6Gy8vcLNAMf9\n\n※ 본 영상은 한맥의 유료광고가 포함되어 있습니다 ※\n#한맥 #엑스트라크리미생 #엑스트라크리미생거품기\n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n00:00 하이라이트\n00:56 오프닝\n05:09 바보들 입장😍\n45:15 노래자랑"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0mO-Tox9R5AHzIRbE56ySGYsAHE",
+            "id": "NTM5Yz08Qwk",
+            "snippet": {
+                "publishedAt": "2024-12-15T05:42:40Z",
+                "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+                "title": "Lee Myung-hwa (이명화) - Real Deal | Show! MusicCore | MBC241215방송",
+                "description": "Lee Myung-hwa (이명화) - Real Deal | Show! MusicCore | MBC241215방송\n\n#LeeMyunghwa #RealDeal #MBCKPOP\n\n★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/musiccore\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NTM5Yz08Qwk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NTM5Yz08Qwk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NTM5Yz08Qwk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NTM5Yz08Qwk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NTM5Yz08Qwk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MBCkpop",
+                "tags": [
+                    "mbc",
+                    "KPOP",
+                    "dance",
+                    "song",
+                    "korea",
+                    "korean",
+                    "show",
+                    "music core",
+                    "live",
+                    "stage",
+                    "girl",
+                    "boy",
+                    "idol",
+                    "한류",
+                    "korean wave",
+                    "ingigayo",
+                    "show champion",
+                    "mnet",
+                    "엠넷",
+                    "music bank",
+                    "쇼 음악중심",
+                    "쇼음악중심",
+                    "쇼음중",
+                    "음중",
+                    "예능 연구소 이명화",
+                    "이명화",
+                    "Lee Myung-hwa",
+                    "진짜배기",
+                    "Real Deal",
+                    "Lee Myung-hwa Fancam",
+                    "Real Deal Fancam",
+                    "이명화 직캠",
+                    "진짜배기 직캠",
+                    "이명화 진짜배기"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Lee Myung-hwa (이명화) - Real Deal | Show! MusicCore | MBC241215방송",
+                    "description": "Lee Myung-hwa (이명화) - Real Deal | Show! MusicCore | MBC241215방송\n\n#LeeMyunghwa #RealDeal #MBCKPOP\n\n★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/musiccore\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3k6SAzkXFDV4nObJGFfesPV3nuE",
+            "id": "-bNqCRiYs9A",
+            "snippet": {
+                "publishedAt": "2024-12-16T10:05:49Z",
+                "channelId": "UC9ZLv1m7QDLv991X1-p50AA",
+                "title": "내기 진 사람 구독자 200만 달성을 위해 히말라야로 보내버리기 ㅋㅋㅋㅋㅋㅋㅋ",
+                "description": "와..이걸 진짜 간다고?ㄷㄷ;;\n\n비즈니스 문의 📩 : bomulsum_ad@naver.com\n\n보물섬  https://www.instagram.com/bomulsum_insta\n강민석 https://www.instagram.com/minshock00\n김동현 https://www.instagram.com/g.bomulsum\n이현석 https://www.instagram.com/hyeonseok_bomulsum",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-bNqCRiYs9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-bNqCRiYs9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-bNqCRiYs9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-bNqCRiYs9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-bNqCRiYs9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "보물섬",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "내기 진 사람 구독자 200만 달성을 위해 히말라야로 보내버리기 ㅋㅋㅋㅋㅋㅋㅋ",
+                    "description": "와..이걸 진짜 간다고?ㄷㄷ;;\n\n비즈니스 문의 📩 : bomulsum_ad@naver.com\n\n보물섬  https://www.instagram.com/bomulsum_insta\n강민석 https://www.instagram.com/minshock00\n김동현 https://www.instagram.com/g.bomulsum\n이현석 https://www.instagram.com/hyeonseok_bomulsum"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "14G9C5oSP-3ZMWSaEMr6uXt3Y2s",
+            "id": "caM63-x6gGM",
+            "snippet": {
+                "publishedAt": "2024-12-14T03:00:23Z",
+                "channelId": "UCaxbXRPhdHPXjM-e-F00LVA",
+                "title": "마주쳤을 때",
+                "description": "#띱 #연애 #스케치코미디 \n\n전여친\n\n친구 / 윤태용 - https://www.instagram.com/actor_y16/\n전애인남 / 윤혁준 - https://www.instagram.com/yhjune/\n전애인여 / 김규남 - https://www.instagram.com/knamiiiiii/\n헤어 / 이도연 - https://www.instagram.com/do.__.yy/\n람보 / 장이준 - https://www.instagram.com/__jangijun/\n따오기 / 임영주 - https://www.instagram.com/forourstar/\n\n엔딩곡\nTwo Wrongs Don't Make A Right - OTE feat. Lauren Dunn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/caM63-x6gGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/caM63-x6gGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/caM63-x6gGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/caM63-x6gGM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/caM63-x6gGM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "띱 Deep",
+                "tags": [
+                    "동영상",
+                    "공유",
+                    "카메라폰",
+                    "동영상폰",
+                    "무료",
+                    "올리기",
+                    "스케치코미디",
+                    "개그",
+                    "코믹숏무비",
+                    "김규남",
+                    "윤태용",
+                    "윤혁준"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "마주쳤을 때",
+                    "description": "#띱 #연애 #스케치코미디 \n\n전여친\n\n친구 / 윤태용 - https://www.instagram.com/actor_y16/\n전애인남 / 윤혁준 - https://www.instagram.com/yhjune/\n전애인여 / 김규남 - https://www.instagram.com/knamiiiiii/\n헤어 / 이도연 - https://www.instagram.com/do.__.yy/\n람보 / 장이준 - https://www.instagram.com/__jangijun/\n따오기 / 임영주 - https://www.instagram.com/forourstar/\n\n엔딩곡\nTwo Wrongs Don't Make A Right - OTE feat. Lauren Dunn"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "I72XvqDERLc4-tNqstje7s-L25I",
+            "id": "v8LoDSh-1T4",
+            "snippet": {
+                "publishedAt": "2024-12-15T08:00:48Z",
+                "channelId": "UC-js9KxuyRoB0b9zlKCgsCg",
+                "title": "영자의 꿈같은 순간, 소복이 쌓인 첫눈처럼 설레는 기다림",
+                "description": "드라마 수상한 그녀의 주인공 지소가 4촌 하우스에 놀러 오기로 한 날, 환영이라도 하듯 예쁜 첫눈이 내렸어요.\n\n그런데 4촌의 환영이 조금 과했는지 눈 쌓인 언덕의 도로가 통제되어 근처까지 왔던 지소는 서울로 돌아갈 수밖에 없었습니다. 지소를 위해 준비한 영양 가득 호두 넣은 보쌈 한상 차림은 덕분에 온전히 저의 몫이 되었네요..😅\n\n호두는 식물성 오메가-3 ALA을 풍부하게 함유하고 있는 유일한 견과류예요. 그리고 식물성 단백질, 항산화 성분과 섬유질 등 유익한 영양소도 함유하고 있답니다.\n\n버터 여러분들도 호두의 좋은 영양소와 건강한 에너지로 매일의 일상을 더 맛있게 만들어보세요.\n\n더 많은 호두 레시피는 캘리포니아 호두 협회(@cawalnuts.kr)에서 확인할 수 있습니다.\n\n#캘리포니아호두 #월넛에브리데이\n\n문의사항👇🏻\nyoungjarang24@naver.com\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다.\n\n#이영자 #이영자유튜브 #이영자TV #이영자티비 #정지소 #이영자레시피 #이영자먹방 #보쌈 #수육 #김장",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v8LoDSh-1T4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v8LoDSh-1T4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v8LoDSh-1T4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v8LoDSh-1T4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v8LoDSh-1T4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "이영자 TV",
+                "tags": [
+                    "이영자",
+                    "푸드테퀸이영자",
+                    "이영자세컨하우스",
+                    "이영자드림하우스",
+                    "삼도사촌",
+                    "이영자삼도사촌",
+                    "이영자애정템",
+                    "이영자인테리어",
+                    "이영자맛집",
+                    "푸드테퀸"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "영자의 꿈같은 순간, 소복이 쌓인 첫눈처럼 설레는 기다림",
+                    "description": "드라마 수상한 그녀의 주인공 지소가 4촌 하우스에 놀러 오기로 한 날, 환영이라도 하듯 예쁜 첫눈이 내렸어요.\n\n그런데 4촌의 환영이 조금 과했는지 눈 쌓인 언덕의 도로가 통제되어 근처까지 왔던 지소는 서울로 돌아갈 수밖에 없었습니다. 지소를 위해 준비한 영양 가득 호두 넣은 보쌈 한상 차림은 덕분에 온전히 저의 몫이 되었네요..😅\n\n호두는 식물성 오메가-3 ALA을 풍부하게 함유하고 있는 유일한 견과류예요. 그리고 식물성 단백질, 항산화 성분과 섬유질 등 유익한 영양소도 함유하고 있답니다.\n\n버터 여러분들도 호두의 좋은 영양소와 건강한 에너지로 매일의 일상을 더 맛있게 만들어보세요.\n\n더 많은 호두 레시피는 캘리포니아 호두 협회(@cawalnuts.kr)에서 확인할 수 있습니다.\n\n#캘리포니아호두 #월넛에브리데이\n\n문의사항👇🏻\nyoungjarang24@naver.com\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다.\n\n#이영자 #이영자유튜브 #이영자TV #이영자티비 #정지소 #이영자레시피 #이영자먹방 #보쌈 #수육 #김장"
+                },
+                "defaultAudioLanguage": "ko"
             }
         }
     ],
-    "nextPageToken": "CAUQAA",
+    "nextPageToken": "CBkQAA",
     "pageInfo": {
         "totalResults": 200,
-        "resultsPerPage": 5
+        "resultsPerPage": 25
     }
 }
