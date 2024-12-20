@@ -1,0 +1,17 @@
+
+.wrap{
+    @apply w-full max-w-screen-2xl mx-auto;
+}
+.inner{
+    @apply px-4;
+}
+.video_area{
+    @apply overflow-hidden relative;
+    padding-bottom: 56.25%;
+}
+.video_area img, .video_area iframe{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}

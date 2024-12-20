@@ -30,28 +30,18 @@ export default class Youtube{
         })
         .then((res) => res.data.items)
     }
-    // async #relatedVideo (id) {
-    //     return this.apiClient
-    //     .search({
-    //         params: {
-    //             part:'snippet,contentDetails,statistics',
-    //             type:'video',
-    //             relatedToVideoId:id,
-    //         }
-    //     })
-    //     .then((res) => res.data.items)
-    // }
     async relatedVideo (id) {
         return this.apiClient
-            .channels({
+            .playlists({
                 params: {
-                    part:'snippet,contentDetails,statistics',
+                    part:'snippet,contentDetails',
                     maxResults: 25,
-                    id
+                    channelId: id
                 }
             }
         )
         .then((res) => res.data.items)
+        // https://youtube.googleapis.com/youtube/v3/playlists?part=snippet%2CcontentDetails&channelId=UC_4u-bXaba7yrRz_6x6kb_w&maxResults=25&key=AIzaSyD_L7qaV1AQApYmfFoVWJkcAXe2aIrJUYA
     }
     async channelImageURL (id) {
         return this.apiClient

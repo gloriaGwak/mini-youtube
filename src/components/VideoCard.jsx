@@ -8,7 +8,7 @@ export default function VideoCard({ video }) {
     const navigate = useNavigate();
     return (
         <li className='w-full cursor-pointer' onClick={() => navigate(`/videos/watch/${video.id}`, {state: {video}})}>
-            <div className="thumnail rounded-2xl md:rounded-lg">
+            <div className="video_area rounded-2xl md:rounded-lg">
                 {video.kind === 'youtube#video' ? (
                     <img src={`${thumbnails.standard.url}`} alt={title} className='w-full' />
                 ) : (

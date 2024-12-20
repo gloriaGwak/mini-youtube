@@ -27,6 +27,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
+          ["@tailwindcss/line-clamp", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:0.4.4"],\
           ["@tanstack/react-query", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:5.62.7"],\
           ["@tanstack/react-query-devtools", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:5.62.7"],\
           ["@testing-library/jest-dom", "npm:5.17.0"],\
@@ -4441,6 +4442,28 @@ const RAW_RUNTIME_STATE =
           ["@svgr/plugin-jsx", "npm:5.5.0"],\
           ["@svgr/plugin-svgo", "npm:5.5.0"],\
           ["loader-utils", "npm:2.0.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@tailwindcss/line-clamp", [\
+      ["npm:0.4.4", {\
+        "packageLocation": "../../../C:/Users/yuyu0/AppData/Local/Yarn/Berry/cache/@tailwindcss-line-clamp-npm-0.4.4-23cb911440-10c0.zip/node_modules/@tailwindcss/line-clamp/",\
+        "packageDependencies": [\
+          ["@tailwindcss/line-clamp", "npm:0.4.4"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:0.4.4", {\
+        "packageLocation": "./.yarn/__virtual__/@tailwindcss-line-clamp-virtual-657df7f5ad/4/C:/Users/yuyu0/AppData/Local/Yarn/Berry/cache/@tailwindcss-line-clamp-npm-0.4.4-23cb911440-10c0.zip/node_modules/@tailwindcss/line-clamp/",\
+        "packageDependencies": [\
+          ["@tailwindcss/line-clamp", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:0.4.4"],\
+          ["@types/tailwindcss", null],\
+          ["tailwindcss", "npm:3.4.16"]\
+        ],\
+        "packagePeers": [\
+          "@types/tailwindcss",\
+          "tailwindcss"\
         ],\
         "linkType": "HARD"\
       }]\
@@ -12419,6 +12442,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["mini-youtube", "workspace:."],\
+          ["@tailwindcss/line-clamp", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:0.4.4"],\
           ["@tanstack/react-query", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:5.62.7"],\
           ["@tanstack/react-query-devtools", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:5.62.7"],\
           ["@testing-library/jest-dom", "npm:5.17.0"],\

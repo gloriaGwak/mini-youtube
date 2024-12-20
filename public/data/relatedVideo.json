@@ -1,54 +1,587 @@
 {
-    "kind": "youtube#channelListResponse",
-    "etag": "osDlfHV1Dp9dq_eV7_IMRTKpoJw",
+    "kind": "youtube#playlistListResponse",
+    "etag": "YGjLYaqvLuHxoz3vDPRQfbr11OQ",
     "pageInfo": {
-        "totalResults": 1,
-        "resultsPerPage": 5
+        "totalResults": 13,
+        "resultsPerPage": 25
     },
     "items": [
         {
-            "kind": "youtube#channel",
-            "etag": "hmjoXhmozCQn_W6072JbRuSBRsM",
-            "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+            "kind": "youtube#playlist",
+            "etag": "lVr469ci3NAtTDnVVrvyOV0Plxw",
+            "id": "PLv2d7VI9OotSn1ThdDeqvBx8QuRSd01qv",
             "snippet": {
-                "title": "Google for Developers",
-                "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n",
-                "customUrl": "@googledevelopers",
-                "publishedAt": "2007-08-23T00:34:43Z",
+                "publishedAt": "2021-02-28T09:02:07.319724Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "개발자라면 누구나 알고 있으면 좋은 지식 💡",
+                "description": "개발자 기본 소양 지식들 :)",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s88-c-k-c0x00ffffff-no-rj",
-                        "width": 88,
-                        "height": 88
+                        "url": "https://i.ytimg.com/vi/t3M6toIflyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s240-c-k-c0x00ffffff-no-rj",
-                        "width": 240,
-                        "height": 240
+                        "url": "https://i.ytimg.com/vi/t3M6toIflyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s800-c-k-c0x00ffffff-no-rj",
-                        "width": 800,
-                        "height": 800
+                        "url": "https://i.ytimg.com/vi/t3M6toIflyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t3M6toIflyQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t3M6toIflyQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
+                "channelTitle": "드림코딩",
                 "localized": {
-                    "title": "Google for Developers",
-                    "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n"
-                },
-                "country": "US"
-            },
-            "contentDetails": {
-                "relatedPlaylists": {
-                    "likes": "",
-                    "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw"
+                    "title": "개발자라면 누구나 알고 있으면 좋은 지식 💡",
+                    "description": "개발자 기본 소양 지식들 :)"
                 }
             },
-            "statistics": {
-                "viewCount": "311066356",
-                "subscriberCount": "2410000",
-                "hiddenSubscriberCount": false,
-                "videoCount": "6411"
+            "contentDetails": {
+                "itemCount": 28
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "SYXBIgtRNrhByHpBxjXOsHQaPZ8",
+            "id": "PLv2d7VI9OotQUUsgcTBHuy5vJkSgzVHL0",
+            "snippet": {
+                "publishedAt": "2020-11-16T21:28:06.037664Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "깃, 깃허브 배우기",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z9dvM7qgN9s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z9dvM7qgN9s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z9dvM7qgN9s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z9dvM7qgN9s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z9dvM7qgN9s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "깃, 깃허브 배우기",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "t41M75SgyTBpXd1Ory3w9WsvgBw",
+            "id": "PLv2d7VI9OotTeLVzs62caVa4Vgnu-Licb",
+            "snippet": {
+                "publishedAt": "2020-10-19T10:14:59.335908Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "백엔드 공부 방법 🚀",
+                "description": "백엔드 개발자가 되기 위한 공부 방법 전략 및 로드맵",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/89bFo003oik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/89bFo003oik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/89bFo003oik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/89bFo003oik/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "백엔드 공부 방법 🚀",
+                    "description": "백엔드 개발자가 되기 위한 공부 방법 전략 및 로드맵"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fR9eAv0hYWHO9Y6z1HtljdzKfko",
+            "id": "PLv2d7VI9OotQ6qTdjSz_4FBYLHQ0rhUMZ",
+            "snippet": {
+                "publishedAt": "2020-06-09T00:09:58.699649Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "개발 공부 방법 👍",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KJUdqPDAtTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KJUdqPDAtTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KJUdqPDAtTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KJUdqPDAtTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KJUdqPDAtTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "개발 공부 방법 👍",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 15
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pAmz_KLZ08DitooRCO5STVj5cRM",
+            "id": "PLv2d7VI9OotSwuex_X9ByriLr1cKb3yPR",
+            "snippet": {
+                "publishedAt": "2020-06-08T23:47:11.633903Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "해외 취업 · 이민 🛬",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rR8vsW_iPj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rR8vsW_iPj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rR8vsW_iPj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rR8vsW_iPj8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rR8vsW_iPj8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "해외 취업 · 이민 🛬",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "BdSp5VN503pYQFIR96kGlOhjGds",
+            "id": "PLv2d7VI9OotSm-6vq7Mg3plBylJjEIDR8",
+            "snippet": {
+                "publishedAt": "2020-06-08T23:42:01.13339Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "엘리의 개발 이야기 👩🏻‍💻",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "엘리의 개발 이야기 👩🏻‍💻",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 13
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Rj8wu7nZ0REibHE6zMkzlc08qvA",
+            "id": "PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2",
+            "snippet": {
+                "publishedAt": "2020-03-31T13:36:02.059982Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "자바스크립트 기초 강의 (ES5+): 같이 노트를 작성하며 배워요 📒",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wcsVjmHrUQg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "자바스크립트 기초 강의 (ES5+): 같이 노트를 작성하며 배워요 📒",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 27
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "OSwwVN0_Cx-HXbaFXxRAhtPVUzM",
+            "id": "PLv2d7VI9OotQB-9p29xrAnARhuE1Vf88I",
+            "snippet": {
+                "publishedAt": "2020-02-11T11:47:17.009891Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "Tech & Tools ❤️",
+                "description": "생산력을 향상시켜주는 엄청난 디지털 기기, 앱들",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FtDQwsvlaBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FtDQwsvlaBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FtDQwsvlaBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FtDQwsvlaBc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "Tech & Tools ❤️",
+                    "description": "생산력을 향상시켜주는 엄청난 디지털 기기, 앱들"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 13
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LWEZVS6jM9_3e7Y4imATDDVWHDQ",
+            "id": "PLv2d7VI9OotTZfvF0s8Vs0gpRtodlTsgg",
+            "snippet": {
+                "publishedAt": "2020-01-30T11:57:14.676131Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "취업 보장 이력서 작성 🙌",
+                "description": "개발자, 프로그래머 취업이나 이직시 알아두면 좋은 꿀팁들",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "취업 보장 이력서 작성 🙌",
+                    "description": "개발자, 프로그래머 취업이나 이직시 알아두면 좋은 꿀팁들"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "2Z8OkcZJFQvH9J0SkkUNddme4W8",
+            "id": "PLv2d7VI9OotRTfM1zJLQMCLriBpLFg8r-",
+            "snippet": {
+                "publishedAt": "2020-01-29T20:22:55.245788Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "IT 트렌드 📈",
+                "description": "알아두면 좋은 IT 트렌트들",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eJp_WtnZfao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eJp_WtnZfao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eJp_WtnZfao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eJp_WtnZfao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eJp_WtnZfao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "IT 트렌드 📈",
+                    "description": "알아두면 좋은 IT 트렌트들"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 17
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "CPEe-radCZzxIYD9uHa_GTcoL8Y",
+            "id": "PLv2d7VI9OotR1tALnxov7sAUshyBmfYfU",
+            "snippet": {
+                "publishedAt": "2019-12-30T12:50:30.819504Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "개발자 브이로그 📷",
+                "description": "엘리의 소소한 직장인 브이로그",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hrFuqaaiRB4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hrFuqaaiRB4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hrFuqaaiRB4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hrFuqaaiRB4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hrFuqaaiRB4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "개발자 브이로그 📷",
+                    "description": "엘리의 소소한 직장인 브이로그"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 7
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "KOzhX8uOrgPxUYU2vhnUbsM0_iA",
+            "id": "PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y",
+            "snippet": {
+                "publishedAt": "2019-12-29T13:12:52.902272Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "프론트엔드 강의 - 프론트엔드 개발자 되기 입문편⭐️ (개념 + 클론코딩)",
+                "description": "HTML, CSS, Javascript",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v2Aw9f-MK5s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "프론트엔드 강의 - 프론트엔드 개발자 되기 입문편⭐️ (개념 + 클론코딩)",
+                    "description": "HTML, CSS, Javascript"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 35
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "iqfAbL3fWDYM3YoyepKvpM5he-c",
+            "id": "PLv2d7VI9OotSyQ6RPdytiHID5Cmnv_sA3",
+            "snippet": {
+                "publishedAt": "2019-11-30T12:22:19.704786Z",
+                "channelId": "UC_4u-bXaba7yrRz_6x6kb_w",
+                "title": "승승장구 커리어 관리 🚀",
+                "description": "개발자로 폭풍 성장할 수 있는 커리어팁",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T7y6Hl0YZ14/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "드림코딩",
+                "localized": {
+                    "title": "승승장구 커리어 관리 🚀",
+                    "description": "개발자로 폭풍 성장할 수 있는 커리어팁"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
             }
         }
     ]
