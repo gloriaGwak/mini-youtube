@@ -1,8 +1,9 @@
 
 .wrap{
-    @apply w-full max-w-screen-2xl mx-auto;
+    @apply w-full max-w-[1920px] mx-auto;
 }
 .inner{
+    @apply w-full max-w-screen-2xl mx-auto;
     @apply px-4;
 }
 .video_area{

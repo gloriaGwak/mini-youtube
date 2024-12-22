@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "RwtM4TH-WAsoBpKOHNJz0CSxzj0",
+    "etag": "tJQ4IXR4oubVpA0JASOyNkivnUs",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,47 +8,47 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "8qjD3nnIVKraqJxbrBVa8RrofDs",
-            "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+            "etag": "rjmnb0Ur5xjhONaSQLs9oLDbDGY",
+            "id": "UC_4u-bXaba7yrRz_6x6kb_w",
             "snippet": {
-                "title": "Google for Developers",
-                "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n",
-                "customUrl": "@googledevelopers",
-                "publishedAt": "2007-08-23T00:34:43Z",
+                "title": "드림코딩",
+                "description": "모든 드림코더분들이 개발자로 성장해 나가고 꿈을 이루는 여정에 함께 할 채널입니다.\n❝Don't forget to code your dream\n여러분들의 멋진 꿈을 코딩하세요 ⭐️\n\n.....................................................\n\n채널 문의 ⇢ ellie@dream-coding.com\n드림코딩 아카데미 ⇢ https://academy.dream-coding.com\n드림코딩 아카데미 문의 ⇢ info@dream-coding.com\n\n.....................................................\n\n죄송하지만, 메일로 개인적인 질문과 고민 상담 및 코드리뷰는 해드리지 않습니다.\n메일을 주시면 읽어 보고 공통적으로 물어보시는 내용은 꼭 영상으로 만들어서 많은 분과 공유해 볼 수 있도록 할께요 🙌\n이해해 주셔서 감사합니다 🙏🏼",
+                "customUrl": "@dream-coding",
+                "publishedAt": "2019-11-02T11:36:20.883856Z",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s88-c-k-c0x00ffffff-no-rj",
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_n_8hS5BGHDs1aNbljYPCJOP-lPUAtOIbTsg2AqjWyyDt4=s88-c-k-c0x00ffffff-no-rj",
                         "width": 88,
                         "height": 88
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s240-c-k-c0x00ffffff-no-rj",
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_n_8hS5BGHDs1aNbljYPCJOP-lPUAtOIbTsg2AqjWyyDt4=s240-c-k-c0x00ffffff-no-rj",
                         "width": 240,
                         "height": 240
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s800-c-k-c0x00ffffff-no-rj",
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_n_8hS5BGHDs1aNbljYPCJOP-lPUAtOIbTsg2AqjWyyDt4=s800-c-k-c0x00ffffff-no-rj",
                         "width": 800,
                         "height": 800
                     }
                 },
                 "localized": {
-                    "title": "Google for Developers",
-                    "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n"
+                    "title": "드림코딩",
+                    "description": "모든 드림코더분들이 개발자로 성장해 나가고 꿈을 이루는 여정에 함께 할 채널입니다.\n❝Don't forget to code your dream\n여러분들의 멋진 꿈을 코딩하세요 ⭐️\n\n.....................................................\n\n채널 문의 ⇢ ellie@dream-coding.com\n드림코딩 아카데미 ⇢ https://academy.dream-coding.com\n드림코딩 아카데미 문의 ⇢ info@dream-coding.com\n\n.....................................................\n\n죄송하지만, 메일로 개인적인 질문과 고민 상담 및 코드리뷰는 해드리지 않습니다.\n메일을 주시면 읽어 보고 공통적으로 물어보시는 내용은 꼭 영상으로 만들어서 많은 분과 공유해 볼 수 있도록 할께요 🙌\n이해해 주셔서 감사합니다 🙏🏼"
                 },
-                "country": "US"
+                "country": "KR"
             },
             "contentDetails": {
                 "relatedPlaylists": {
                     "likes": "",
-                    "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw"
+                    "uploads": "UU_4u-bXaba7yrRz_6x6kb_w"
                 }
             },
             "statistics": {
-                "viewCount": "311090700",
-                "subscriberCount": "2410000",
+                "viewCount": "11375667",
+                "subscriberCount": "171000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "6412"
+                "videoCount": "122"
             }
         }
     ]

@@ -3,18 +3,15 @@ import React, { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import ChannerInfo from '../components/ChannerInfo';
 import RelatedVideo from '../components/RelatedVideo';
+import Comment from '../components/Comment';
 import { formatAgo } from '../util/date';
-
-// import { useQuery } from '@tanstack/react-query';
-// import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function Watch() {
     const {state: {video}} = useLocation();
-
     const { title, channelId, channelTitle, description, publishedAt } = video.snippet;
-    console.log(video)
+    
     return (
-        <article className='py-14'>
+        <main className='py-20 md:py-14'>
             <div className="inner flex gap-4 flex-col lg:flex-row">
                 <section className="w-full lg:w-4/6">
                     <div className='video_area rounded-2xl md:rounded-lg'>
@@ -24,31 +21,27 @@ export default function Watch() {
                             width="100%" 
                             height="100%" 
                             src={`http://www.youtube.com/embed/${video.id}`} 
-                            frameBorder="0"
+                            frameBorder="0"                            
                         />
                     </div>
-                    <div className='mt-8 lg:mt-12 break-all'>
-                        <h2 className='font-bold text-xl lg:text-3xl'>{title}</h2>
+                    <div className='mt-4 lg:mt-6 break-all'>
+                        <h2 className='font-bold text-xl lg:text-2xl'>{title}</h2>
                         <ChannerInfo id={channelId} name={channelTitle} />
-                        <span className='block text-sm lg:text-base mt-2 lg:mt-6'>{formatAgo(publishedAt)}</span>
-                        <pre className=' mt-2 lg:mt-6 text-base lg:text-lg break-normal whitespace-pre-wrap'>{description}</pre>
+                        <div className="p-4 md:p-4 mt-5 md:mt-10 bg-gray-600 rounded-2xl md:rounded-lg">
+                            <span className='text-sm lg:text-base'>{formatAgo(publishedAt)}</span>
+                            <pre className='mt-2 lg:mt-6 text-sm lg:text-base break-keep whitespace-pre-wrap'>{description}</pre>
+                        </div>
                     </div>
-                    <div className="">
-                        여기는 코멘트!
+                    <div className="mt-10 md:mt-10">
+                        <h3 className='mb-4 md:mb-6 font-bold text-xl lg:text-2xl'>Comments</h3>
+                        <Comment id={video.id}/>
                     </div>
                 </section>
-                <section className="w-full lg:w-2/6">
-                    <RelatedVideo id={channelId} video={video} />
+                <section className="w-full lg:w-2/6 mt-10 lg:mt-0">
+                    <h3 className='mb-4 md:mb-6 font-bold text-xl lg:text-2xl'>Related Videos</h3>
+                    <RelatedVideo id={channelId} />
                 </section>
             </div>
-        </article>
+        </main>
     );
 }
-
-
-// https://www.googleapis.com/youtube/v3/search
-//   ?part=snippet
-//   &relatedToVideoId={VIDEO_ID}
-//   &type=video
-//   &key={YOUR_API_KEY}
-

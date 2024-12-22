@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "CEEaR6fF-9nislMVj-BoNs-MVmU",
+    "etag": "Jkf_v0EKKVR19BIJxF6KZdRwi-Q",
     "nextPageToken": "CBkQAA",
     "regionCode": "AU",
     "pageInfo": {
@@ -44,7 +44,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "dvz4d3TwPB1g2hYglpneA3ZCMjQ",
+            "etag": "PRIhdU_V8xLBC35r1oQAQh5Xcyw",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "jWQx2f-CErU"
@@ -74,74 +74,6 @@
                 "channelTitle": "SMTOWN",
                 "liveBroadcastContent": "none",
                 "publishTime": "2024-10-21T09:00:42Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "V912UKdvDZ2G5eDMsq-4ES0VNqs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "l9CZykYZkOQ"
-            },
-            "snippet": {
-                "publishedAt": "2024-07-26T03:58:07Z",
-                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-                "title": "KATSEYE (캣츠아이) &quot;Touch&quot; Official MV",
-                "description": "Watch Pop Star Academy: KATSEYE now on Netflix: https://katseye.lnk.to/WatchPopStarAcademy Stream KATSEYE'S debut EP, ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/l9CZykYZkOQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/l9CZykYZkOQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/l9CZykYZkOQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HYBE LABELS",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-07-26T03:58:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "gbhlB-0JB5Mu-6G2EWD1inD7ais",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "o6I2uy5_xSw"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-18T11:30:34Z",
-                "channelId": "UC427i7YN50OJWsUJVLjpfLA",
-                "title": "Kpop News: Jennie’s viral Christmas post. NewJeans Re-Debut? aespa Winter&#39;s humiliation shocks!",
-                "description": "Kpop News: Jennie's viral Christmas post. NewJeans Re-Debut? aespa Winter's humiliation shocks! Here's what's been going on: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/o6I2uy5_xSw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/o6I2uy5_xSw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/o6I2uy5_xSw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "BeBoss TV",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-18T11:30:34Z"
             }
         },
         {
@@ -214,7 +146,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "XHawV2M_U_uCSORfqS_CHjhBew4",
+            "etag": "u8yFMgzPVR2hUjsUar-7l9664KQ",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "-nEGVrzPaiU"
@@ -248,70 +180,104 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "rORL_1JJBkCEgxfkORkZzbsbNHs",
+            "etag": "AeYIHrZo38s_t-eiyw2cffJZ3PY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "AC3PMRYViK0"
+                "videoId": "cxhqqpVk65Q"
             },
             "snippet": {
-                "publishedAt": "2024-12-01T21:28:56Z",
-                "channelId": "UCSxo3wU3VbejG5oG3DWFOdQ",
-                "title": "Idols who went viral for doing natural things #kpop #shorts",
-                "description": "",
+                "publishedAt": "2024-11-05T05:00:07Z",
+                "channelId": "UCqwUnggBBct-AY2lAdI88jQ",
+                "title": "BABYMONSTER - ‘DRIP’ PERFORMANCE VIDEO",
+                "description": "BABYMONSTER #베이비몬스터 #1stFULLALBUM #DRIP #PerformanceVideo #YG More about BABYMONSTER @ Official ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/AC3PMRYViK0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cxhqqpVk65Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/AC3PMRYViK0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cxhqqpVk65Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/AC3PMRYViK0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cxhqqpVk65Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Now Kpop",
+                "channelTitle": "BABYMONSTER",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-01T21:28:56Z"
+                "publishTime": "2024-11-05T05:00:07Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "e-96D9qWwqSGsq2NC8i-wF9HDAg",
+            "etag": "U6MZnF9kXQffQna4j1QZU3wNFgw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Vm1VQWaf68o"
+                "videoId": "ovHoY8UBIu8"
             },
             "snippet": {
-                "publishedAt": "2024-12-18T00:08:12Z",
-                "channelId": "UCNsLQ05AgJ7ycgjx4W7AaHA",
-                "title": "김종국 (KIMJONGKOOK) 의 킬링보이스를 라이브로! - 회상, 한남자, 중독,...",
-                "description": "Provided to YouTube by Collab Asia Music 김종국 (KIMJONGKOOK) 의 킬링보이스를 라이브로! - 회상, 한남자, 중독, 제자리걸음, ...",
+                "publishedAt": "2024-12-13T05:00:00Z",
+                "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+                "title": "Stray Kids &quot;Walkin On Water&quot; M/V",
+                "description": "Stray Kids(스트레이 키즈) \"Walkin On Water\" M/V Listen to \"合 (HOP)\" now   https://Stray-Kids.lnk.to/HOP Stray Kids \"合 (HOP)\" ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Vm1VQWaf68o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ovHoY8UBIu8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Vm1VQWaf68o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ovHoY8UBIu8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Vm1VQWaf68o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ovHoY8UBIu8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Release - Topic",
+                "channelTitle": "JYP Entertainment",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-18T00:08:12Z"
+                "publishTime": "2024-12-13T05:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7lPR6OjIh6oOvc3Xpzb7lholUpY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uOUGjkXFXEY"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-21T11:30:36Z",
+                "channelId": "UC70u2e8gK14R7QfFs7ehNDw",
+                "title": "TWICE - Strategy | Show! MusicCore | aired on MBC 241215 #TWICE #Kpop #showmusiccore",
+                "description": "MBCWORLD #MBCKPOP #TWICE #Kpop #showmusiccore 각국어 번역 자막 제작: 컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uOUGjkXFXEY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uOUGjkXFXEY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uOUGjkXFXEY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBC WORLD",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-21T11:30:36Z"
             }
         },
         {
@@ -350,70 +316,206 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "9wYghqVQvR79c0u648Zx1RsnQiw",
+            "etag": "SytLXN44y1yA42QgqzHwHPK1JPY",
             "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PL21a_Jsowir3gv-51Be5BQzWl7nxrNeE9"
+                "kind": "youtube#video",
+                "videoId": "T17AR8cVmto"
             },
             "snippet": {
-                "publishedAt": "2014-11-23T18:42:31Z",
-                "channelId": "UCOa7oEZ_FBnmC_-Nrav7Zvg",
-                "title": "best 2009-2024 kpop playlist! ･ᴗ･",
-                "description": "this playlist includes different genres - mostly kpop but also includes k-indie, khiphop, k-ballads, etc.",
+                "publishedAt": "2024-07-21T11:00:02Z",
+                "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+                "title": "Stray Kids &quot;Chk Chk Boom&quot; Performance Video",
+                "description": "Stray Kids(스트레이 키즈) \"Chk Chk Boom\" Performance Video Listen to \"ATE\" now   https://Stray-Kids.lnk.to/ATE Stray Kids ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/eA0lHNZ1KCA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/T17AR8cVmto/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/eA0lHNZ1KCA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T17AR8cVmto/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/eA0lHNZ1KCA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T17AR8cVmto/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "savannah sanchez",
+                "channelTitle": "Stray Kids",
                 "liveBroadcastContent": "none",
-                "publishTime": "2014-11-23T18:42:31Z"
+                "publishTime": "2024-07-21T11:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "hOr7SJZWw8rs7WCU0dXp07HGiOM",
+            "etag": "Ij4RiQELkSqhIcGirVBLtMHxkOU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "cxhqqpVk65Q"
+                "videoId": "c_LaGi_0XTs"
             },
             "snippet": {
-                "publishedAt": "2024-11-05T05:00:07Z",
-                "channelId": "UCqwUnggBBct-AY2lAdI88jQ",
-                "title": "BABYMONSTER - ‘DRIP’ PERFORMANCE VIDEO",
-                "description": "BABYMONSTER #베이비몬스터 #1stFULLALBUM #DRIP #PerformanceVideo #YG More about BABYMONSTER @ Official ...",
+                "publishedAt": "2024-09-03T11:00:40Z",
+                "channelId": "UCSxo3wU3VbejG5oG3DWFOdQ",
+                "title": "Idols who were attacked by animals #kpop #shorts",
+                "description": "Hi and welcome to a new video ❤️. REMEMBER THAT: We upload videos every week ♡ You can subscribe and activate ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cxhqqpVk65Q/default.jpg",
+                        "url": "https://i.ytimg.com/vi/c_LaGi_0XTs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cxhqqpVk65Q/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/c_LaGi_0XTs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cxhqqpVk65Q/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/c_LaGi_0XTs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "BABYMONSTER",
+                "channelTitle": "Now Kpop",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-05T05:00:07Z"
+                "publishTime": "2024-09-03T11:00:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "az0xSgRuQa_VSdTzMo7WGnQBkrQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WXpCjTThxtY"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-20T14:59:09Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "When I’m With You - NCT DREAM (엔시티 드림) [2024 KBS 가요대축제 글로벌페스티벌] | KBS 241220 방송",
+                "description": "When I'm With You - NCT DREAM (엔시티 드림) Copyright c KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WXpCjTThxtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WXpCjTThxtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WXpCjTThxtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-20T14:59:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2PLteoIGOw18X7DE07skbe_4SnA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OjCJA1A4h_E"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-20T12:10:10Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "MARK 마크 (NCT) - Fraktsiya (Feat. Lee Youngji 이영지) [2024 KBS Song Festival]  KBS WORLD TV 241220",
+                "description": "MARK 마크 (NCT) - Fraktsiya (Feat. Lee Youngji 이영지) [2024 KBS Song Festival] KBS WORLD TV 241220 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OjCJA1A4h_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OjCJA1A4h_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OjCJA1A4h_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS WORLD TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-20T12:10:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lsJPYMx3hkzBKsg642UGsBEJ-pA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hsBo0K5siBg"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-18T06:15:17Z",
+                "channelId": "UCovj9nsR7XJyC8RvtvSbWbA",
+                "title": "How Lisa got banned from Kpop and Korea for insulting it…#shorts#blackpink#lisa#kpop#kpopidol#fyp",
+                "description": "bts #shorts #fyp #fypシ #btsbtsshorts #btstiktok #btsarmy #fypage #youtubeshorts #shortsyoutube #fyptiktok #fyp #jimin #btsjimin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hsBo0K5siBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hsBo0K5siBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hsBo0K5siBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bts forever",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-18T06:15:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WZeCxux7F-evKJg4cemCJCoePwg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_D2tH1GH5M4"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-08T19:49:16Z",
+                "channelId": "UCY5n2wjCHE6IbAHvGlno8qw",
+                "title": "A mistake that made it even better #kpop #nmixx #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_D2tH1GH5M4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_D2tH1GH5M4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_D2tH1GH5M4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bubble_Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-08T19:49:16Z"
             }
         },
         {
@@ -452,268 +554,138 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "6eR8PM_v8CXwTP1Qw1gzp12qLMo",
+            "etag": "0CaU2PLHsUoQBfretK6HDZvuL8U",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "T17AR8cVmto"
+                "videoId": "IW8qaemx74g"
             },
             "snippet": {
-                "publishedAt": "2024-07-21T11:00:02Z",
-                "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
-                "title": "Stray Kids &quot;Chk Chk Boom&quot; Performance Video",
-                "description": "Stray Kids(스트레이 키즈) \"Chk Chk Boom\" Performance Video Listen to \"ATE\" now   https://Stray-Kids.lnk.to/ATE Stray Kids ...",
+                "publishedAt": "2024-11-29T15:25:59Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "ROSÉ(로제) - APT. (Band VER.) (With. 이영지) [더 시즌즈-이영지의 레인보우] | KBS 241129 방송",
+                "description": "ROSÉ(로제) - APT. (Band VER.) (With. 이영지) Copyright c KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/T17AR8cVmto/default.jpg",
+                        "url": "https://i.ytimg.com/vi/IW8qaemx74g/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/T17AR8cVmto/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IW8qaemx74g/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/T17AR8cVmto/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IW8qaemx74g/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Stray Kids",
+                "channelTitle": "KBS Kpop",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-21T11:00:02Z"
+                "publishTime": "2024-11-29T15:25:59Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "rraEk1Xa3JJD4nORENi3-C_WV8E",
+            "etag": "GYOrbnCncKWCXDMOCHmaf7JTizY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "c_LaGi_0XTs"
+                "videoId": "eA0lHNZ1KCA"
             },
             "snippet": {
-                "publishedAt": "2024-09-03T11:00:40Z",
-                "channelId": "UCSxo3wU3VbejG5oG3DWFOdQ",
-                "title": "Idols who were attacked by animals #kpop #shorts",
-                "description": "Hi and welcome to a new video ❤️. REMEMBER THAT: We upload videos every week ♡ You can subscribe and activate ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/c_LaGi_0XTs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/c_LaGi_0XTs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/c_LaGi_0XTs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Now Kpop",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-09-03T11:00:40Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GMDD65AlvHpTejtUYIBJ2qNrU3s",
-            "id": {
-                "kind": "youtube#channel",
-                "channelId": "UCbD8EppRX3ZwJSou-TVo90A"
-            },
-            "snippet": {
-                "publishedAt": "2006-03-09T02:12:08Z",
-                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
-                "title": "Mnet K-POP",
-                "description": "K-POP Channel of World's No.1 Music Channel Mnet Watch the latest and hottest K-POP contents on ✨Mnet K-POP✨ cCJ ENM.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_nUqO-dRLZjKIvfKHI-6pRWYjmx_5ZFEVgcKfMo0m6HTLKH=s88-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_nUqO-dRLZjKIvfKHI-6pRWYjmx_5ZFEVgcKfMo0m6HTLKH=s240-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_nUqO-dRLZjKIvfKHI-6pRWYjmx_5ZFEVgcKfMo0m6HTLKH=s800-c-k-c0xffffffff-no-rj-mo"
-                    }
-                },
-                "channelTitle": "Mnet K-POP",
-                "liveBroadcastContent": "none",
-                "publishTime": "2006-03-09T02:12:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "28ecXc4tmhVRcllMDUWRXBYH_xA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "pZ1NdE69VTs"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-22T05:00:06Z",
+                "publishedAt": "2024-12-06T05:00:06Z",
                 "channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
-                "title": "ROSÉ - number one girl (official music video)",
-                "description": "ROSÉ - number one girl download/stream: http://rosesarerosie.lnk.to/numberonegirlID 'rosie' - the first studio album by ROSÉ - out ...",
+                "title": "ROSÉ - toxic till the end (OFFICIAL MUSIC VIDEO)",
+                "description": "'rosie' - the first studio album by ROSÉ - out now download/stream: http://rosesarerosie.lnk.to/rosieID ROSÉ store exclusive 'rosie' ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/pZ1NdE69VTs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/eA0lHNZ1KCA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/pZ1NdE69VTs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/eA0lHNZ1KCA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/pZ1NdE69VTs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/eA0lHNZ1KCA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "ROSÉ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-22T05:00:06Z"
+                "publishTime": "2024-12-06T05:00:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "QN2-1NEdTgxcNn_U8LJw4w6ngQ4",
+            "etag": "uoEtV-djQPxOQ2IgisUBOdEuYjY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "jFRf9pCbMrs"
+                "videoId": "BSwykPBYzow"
             },
             "snippet": {
-                "publishedAt": "2024-11-15T11:01:01Z",
-                "channelId": "UCSxo3wU3VbejG5oG3DWFOdQ",
-                "title": "Idols who showed they&#39;re a little too close #kpop #shorts",
-                "description": "Hi and welcome to a new video ❤️. REMEMBER THAT: We upload videos every week ♡ You can subscribe and activate ...",
+                "publishedAt": "2024-12-20T15:59:17Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "아파트 - 윤수일 + 전 출연자(All Artists) [2024 KBS 가요대축제 글로벌페스티벌] | KBS 241220 방송",
+                "description": "아파트 - 윤수일 + 전 출연자(All Artists) Copyright c KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지 2024 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jFRf9pCbMrs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/BSwykPBYzow/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jFRf9pCbMrs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BSwykPBYzow/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jFRf9pCbMrs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BSwykPBYzow/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Now Kpop",
+                "channelTitle": "KBS Kpop",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-15T11:01:01Z"
+                "publishTime": "2024-12-20T15:59:17Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "XfclhjxnjPx9vnzJt5pKsTDNScw",
+            "etag": "8hG1ymGR_WR1WFntKUVA9b1Enkg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ukiaSGya_CA"
+                "videoId": "3fGvi-U9ilU"
             },
             "snippet": {
-                "publishedAt": "2023-07-28T04:02:29Z",
-                "channelId": "UCf_gP4AMRSgAfyzbkeS9k4g",
-                "title": "K-POP",
-                "description": "Provided to YouTube by Cactus Jack/Epic K-POP · Travis Scott · Bad Bunny · The Weeknd UTOPIA ℗ 2023 Cactus Jack Records ...",
+                "publishedAt": "2024-10-28T00:17:03Z",
+                "channelId": "UCeX4PfcRed2ENjHqGQb6ffg",
+                "title": "KPOP PLAYLIST 2024 💖★彡 K-POP(케이팝) Lite",
+                "description": "彡☆彡 ☆ Popular girl group songs of 2024 ☆ Want to sing and dance   ☆ Subscribe to my channel ☆ #kpopplaylist2024 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ukiaSGya_CA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3fGvi-U9ilU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ukiaSGya_CA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3fGvi-U9ilU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ukiaSGya_CA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3fGvi-U9ilU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Travis Scott - Topic",
+                "channelTitle": "K-POP Lite",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-28T04:02:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "gMGOOv6mWynHvA4fZEby6kgnzRI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "wzsBBMZyE6c"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-07T14:30:21Z",
-                "channelId": "UC6cpWa5gy29c-uhQqbqTM-A",
-                "title": "Kpop Idols Who Shocked Netizens For Their Skin In Unedited Photos",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wzsBBMZyE6c/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wzsBBMZyE6c/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wzsBBMZyE6c/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "KKRUSH KPOP",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-07T14:30:21Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ImdL7NYZx3qkKFbMC1ENWYgxTGs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "7QufKl-zRIg"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-12T10:37:13Z",
-                "channelId": "UCovj9nsR7XJyC8RvtvSbWbA",
-                "title": "How BTS Jin is Banned for opening an Alcohol company…#shorts#bts#jin#kpop#kpopidol#fyp#fypシ゚",
-                "description": "bts #shorts #fyp #fypシ #btsbtsshorts #btstiktok #btsarmy #fypage #youtubeshorts #shortsyoutube #fyptiktok #fyp #jimin #btsjimin ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/7QufKl-zRIg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/7QufKl-zRIg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/7QufKl-zRIg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Bts forever",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-12T10:37:13Z"
+                "publishTime": "2024-10-28T00:17:03Z"
             }
         },
         {
@@ -752,104 +724,138 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "KLo6mve9TT537cuWrPSaOUSs7R0",
+            "etag": "Y_-KolydnoH34XeTn6lxtjxvfQg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "UiKtbR094IU"
+                "videoId": "75dOO9JTwcU"
             },
             "snippet": {
-                "publishedAt": "2024-12-08T14:30:19Z",
-                "channelId": "UC6cpWa5gy29c-uhQqbqTM-A",
-                "title": "Kpop Facts That Seem Fake But Are Real! #kpop #shorts",
-                "description": "tags - #izone #wonyoung #yujin #hyewon #nako #chaewon #eunbi #sakura #yena #yuri #hitomi #minju #chaeyeon #kpop ...",
+                "publishedAt": "2024-12-20T11:44:26Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "UNIS 유니스 - Curious [2024 KBS Song Festival]  KBS WORLD TV 241220",
+                "description": "UNIS 유니스 - Curious [2024 KBS Song Festival] KBS WORLD TV 241220 #2024KBSSongFestival #GlobalFestival ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/UiKtbR094IU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/75dOO9JTwcU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/UiKtbR094IU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/75dOO9JTwcU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/UiKtbR094IU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/75dOO9JTwcU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "KKRUSH KPOP",
+                "channelTitle": "KBS WORLD TV",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-08T14:30:19Z"
+                "publishTime": "2024-12-20T11:44:26Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "N2lAWRa8DvxnCsdAWqRCUCL0Q8A",
+            "etag": "H2hApF8sct7oeCYnoSlqePZ0W6I",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "SEnwmHlIRnI"
+                "videoId": "n2j36edeiiI"
             },
             "snippet": {
-                "publishedAt": "2024-07-30T10:49:36Z",
-                "channelId": "UCSAfWotlAIZ5riJTzVeqrfw",
-                "title": "YG’s new group got exposed?🧐#shorts #yg #kpop #girlgroup",
-                "description": "babymonster #kpopnews Kpop news yg new group 2025 kpop group yg trainees yg new monster yg new girl group yg group ...",
+                "publishedAt": "2024-01-18T15:00:47Z",
+                "channelId": "UCyUEqajkVIGSwvZVw7NfD-Q",
+                "title": "Do the #kpop dance that comes to mind! ✨ #streetinterview #shorts",
+                "description": "Check out this interview with these talented little girls! Their love for K-Pop and incredible dance talents kept a smile on my face ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SEnwmHlIRnI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/n2j36edeiiI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SEnwmHlIRnI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/n2j36edeiiI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SEnwmHlIRnI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/n2j36edeiiI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Miss Mystery",
+                "channelTitle": "luluboi 🤠",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-30T10:49:36Z"
+                "publishTime": "2024-01-18T15:00:47Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "W5kIpYwWH63GnS0EDemceN07Nto",
+            "etag": "Vj4v8pgtcFUvF9Ac5Zt_eH9Z6zs",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "toF4ee3n-vo"
+                "videoId": "0Qwv7Je9iP0"
             },
             "snippet": {
-                "publishedAt": "2024-10-21T10:00:59Z",
-                "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
-                "title": "[TAKE#B | 4K]  KISS OF LIFE (키스오브라이프) - Igloo",
-                "description": "키오프 힙함에 꽁꽁 얼어붙었다가❄ 핫한 분위기에 녹아버린 ❤️‍  Igloo❤️‍   01:53 KISS OF LIFE (키스오브라이프)가 나를 꼬셔 ...",
+                "publishedAt": "2024-12-20T15:39:34Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "INTRO + 영웅 (英雄Kick It) + 삐그덕 (Walk) - NCT 127 (엔시티 127) [2024 KBS 가요대축제 글로벌페스티벌] | KBS 241220 방송",
+                "description": "INTRO + 영웅 (英雄Kick It) + 삐그덕 (Walk) - NCT 127 (엔시티 127) Copyright c KBS. All rights reserved. 무단 전재, 재배포 및 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/toF4ee3n-vo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/0Qwv7Je9iP0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/toF4ee3n-vo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/0Qwv7Je9iP0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/toF4ee3n-vo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/0Qwv7Je9iP0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "GENIE MUSIC",
+                "channelTitle": "KBS Kpop",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-10-21T10:00:59Z"
+                "publishTime": "2024-12-20T15:39:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zRPapHPq53B0P07xov6HHCBL03s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F1n0Sct-yaY"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-05T21:15:30Z",
+                "channelId": "UC-nvRQb2pQmA0em8A33mLOQ",
+                "title": "How difficult is: TOUCH - KATSEYE 🤙 [MIRRORED] #캣츠아이 #touch #kpop #katseye #katseye_touch",
+                "description": "katseyeworld.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F1n0Sct-yaY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F1n0Sct-yaY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F1n0Sct-yaY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ploopy678",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-05T21:15:30Z"
             }
         }
     ]

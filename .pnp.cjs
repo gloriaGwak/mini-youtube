@@ -34,6 +34,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:13.5.0"],\
           ["axios", "npm:1.7.9"],\
+          ["dompurify", "npm:3.2.3"],\
           ["eslint-config-react-app", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:7.0.1"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:19.0.0"],\
@@ -8128,6 +8129,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["dompurify", [\
+      ["npm:3.2.3", {\
+        "packageLocation": "../../../C:/Users/yuyu0/AppData/Local/Yarn/Berry/cache/dompurify-npm-3.2.3-4fa119eef7-10c0.zip/node_modules/dompurify/",\
+        "packageDependencies": [\
+          ["dompurify", "npm:3.2.3"],\
+          ["@types/trusted-types", "npm:2.0.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["domutils", [\
       ["npm:1.7.0", {\
         "packageLocation": "../../../C:/Users/yuyu0/AppData/Local/Yarn/Berry/cache/domutils-npm-1.7.0-7a1529fcfc-10c0.zip/node_modules/domutils/",\
@@ -12449,6 +12460,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:13.5.0"],\
           ["axios", "npm:1.7.9"],\
+          ["dompurify", "npm:3.2.3"],\
           ["eslint-config-react-app", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:7.0.1"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:19.0.0"],\

@@ -6,7 +6,6 @@ export default function ChannerInfo({id,name}) {
     const { youtube } = useYoutubeApi();
 
     const {isLoading, error, data: url } = useQuery({
-    // const { data: url } = useQuery({
         queryKey: ['channel', id],
         queryFn: (e) => {
             return youtube.channelImageURL(id);

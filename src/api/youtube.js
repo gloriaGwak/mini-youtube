@@ -13,6 +13,8 @@ export default class Youtube{
             params: {
                 part:'snippet',
                 maxResults:25,
+                order:'date',
+                type:'video',
                 q:keyword,
             }
         })
@@ -26,22 +28,29 @@ export default class Youtube{
                 part:'snippet,contentDetails,statistics',
                 chart:'mostPopular',
                 regionCode:'kr',
+                order:'date',
+                type:'video',
+                maxResults:25,
             }
         })
         .then((res) => res.data.items)
     }
+
     async relatedVideo (id) {
         return this.apiClient
-            .playlists({
-                params: {
-                    part:'snippet,contentDetails',
-                    maxResults: 25,
-                    channelId: id
-                }
+        .search({
+            params: {
+                part:'snippet',
+                channelId: id,
+                maxResults:25,
+                order:'date',
+                type:'video',
             }
-        )
+        })
         .then((res) => res.data.items)
+        .then((items) => items.map((item) => ({...item, id: item.id.videoId}))) 
     }
+
     async channelImageURL (id) {
         return this.apiClient
         .channels({
@@ -51,5 +60,17 @@ export default class Youtube{
             }
         })
         .then((res) => res.data.items[0].snippet.thumbnails.default.url)        
+    }
+
+    async commentsList (id) {
+        return this.apiClient
+        .commentThreads({
+            params: {
+                part:'snippet,replies',
+                videoId: id,
+                // maxResults:25,
+            }
+        })
+        .then((res) => res.data.items)
     }
 }
