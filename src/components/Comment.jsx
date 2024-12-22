@@ -13,7 +13,7 @@ export default function Comment({id}) {
         queryFn: () => {
             return youtube.commentsList(id);
         },
-            // staleTime: 5000
+        staleTime: 1000 * 60 *5
     });
 
     return (
@@ -22,7 +22,7 @@ export default function Comment({id}) {
             {error && <p>error!!!</p>}
             {comments && (
                 <>
-                    <ul className='overflow-y-auto flex flex-col gap-4 md:gap-6 h-[50vh] md:h-auto'>
+                    <ul className='overflow-y-auto flex flex-col gap-4 md:gap-6 h-[50vh] lg:h-auto'>
                         {comments.map(comment => (
                             <li key={comment.id} className='flex items-start w-full pr-4 gap-2 md:gap-4'>
                                 <div className="overflow-hidden rounded-full w-10 h-10 md:w-12 md:h-12">
@@ -31,10 +31,10 @@ export default function Comment({id}) {
                                 <div className='w-[calc(100%-3rem)] md:w-[calc(100%-4rem)]'>
                                     <div>
                                         <strong className='text-base md:text-sm font-medium'>{comment.snippet.topLevelComment.snippet.authorDisplayName}</strong>
-                                        <span className='ml-2 text-sm md:text-xs font-light text-gray-200'>{formatAgo(comment.snippet.topLevelComment.snippet.publishedAt)}</span>
+                                        <span className='ml-2 text-sm md:text-xs text-gray-900 dark:text-gray-200'>{formatAgo(comment.snippet.topLevelComment.snippet.publishedAt)}</span>
                                     </div>
                                     <pre
-                                        className="font-light text-base md:text-sm break-keep whitespace-pre-wrap"
+                                        className="text-base md:text-sm whitespace-pre-wrap text-wrap"
                                         dangerouslySetInnerHTML={{
                                             __html: DOMPurify.sanitize(comment.snippet.topLevelComment.snippet.textDisplay),
                                         }}

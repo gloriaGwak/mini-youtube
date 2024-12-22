@@ -2,15 +2,10 @@ import React, { useEffect, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import { BsYoutube, BsSearch } from "react-icons/bs";
 
-
 export default function Header() {
     const {keyword} = useParams();
     const [text, setText] = useState('');
     const navigate = useNavigate();
-
-    const handleChange = ({target}) => {
-        setText(target.value);
-    }
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -22,7 +17,7 @@ export default function Header() {
     useEffect(() => setText(keyword || ''), [keyword]);
 
     return (
-        <header className='border-b border-zinc-600 text-md'>
+        <header className='border-b border-gray-500 dark:border-zinc-600 text-md'>
             <div className="inner flex justify-between items-center w-full py-3 lg:py-4 gap-1.5">
                 <div className=''>
                     <Link to='/' className='flex items-center'>
@@ -33,7 +28,7 @@ export default function Header() {
                 <div className='w-full'>
                     <form onSubmit={handleSubmit} className='flex justify-end items-center gap-1.5 md:gap-2'>
                         <input 
-                            className='w-3/4 h-8 md:h-10 px-4 bg-black border-solid text-gray-50 border rounded-3xl'
+                            className='w-3/4 h-8 md:h-10 px-4 dark:bg-black border dark:text-gray-100 border-gray-500 dark:border-zinc-600 rounded-3xl'
                             type='text' 
                             id='search' 
                             title='search video' 
@@ -42,7 +37,7 @@ export default function Header() {
                             placeholder='Enter video title' 
                         />
                         <button 
-                            className='w-8 md:w-10 h-8 md:h-10 order-solid bg-zinc-600 border rounded-full'
+                            className='w-8 md:w-10 h-8 md:h-10 order-solid border-gray-500 dark:border-zinc-600 border rounded-full'
                             type='' 
                             title='Search
                         '>

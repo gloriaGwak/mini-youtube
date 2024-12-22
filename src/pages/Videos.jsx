@@ -16,11 +16,12 @@ export default function Videos() {
             // delaying 1 second
             await new Promise(resolve => setTimeout(resolve, 1000));
             return youtube.search(keyword);
-        }
+        },
+        staleTime: 1000 * 60 *5
     });
 
     return (
-        <main className='py-20 md:py-14'>
+        <main className='py-10 md:py-14'>
             <div className='inner'>
                 {isLoading && <Loading />}
                 {error && <ErrorMessage/> }

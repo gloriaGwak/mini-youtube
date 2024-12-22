@@ -3,9 +3,20 @@
 @tailwind utilities;
 @tailwind forms;
 
+/* @font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+} */
+
+html.dark body{
+  @apply bg-zinc-800 text-gray-50;
+}
+
 body {
   margin: 0;
-  font-family: 'pretandard', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
+  font-family: 'Pretendard', 'sans-serif';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   width: 100%;
@@ -14,22 +25,18 @@ body {
   line-height: 1.5rem;
   color: rgb(55, 65, 81);
   @apply flex flex-col items-center;
-  @apply bg-zinc-800 text-gray-50;
+  @apply bg-white text-gray-900;
 }
 
 #root{
   @apply w-full max-w-full;
 }
 
-code, kbd, samp, pre {
-  font-family: 'pretandard', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
-}
-
 ::-webkit-scrollbar{
   width: 0.5rem;
 }
 ::-webkit-scrollbar-track{
-  @apply bg-gray-300;
+  @apply bg-gray-200;
   @apply rounded-2xl;
 }
 ::-webkit-scrollbar-thumb{
@@ -37,5 +44,9 @@ code, kbd, samp, pre {
   @apply rounded-2xl;
 }
 ::-webkit-scrollbar-thumb:hover{
-  @apply bg-gray-700;  
+  @apply bg-gray-600;  
+}
+
+code, kbd, samp, pre {
+  font-family: 'Pretendard', 'sans-serif';
 }

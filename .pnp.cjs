@@ -36,6 +36,7 @@ const RAW_RUNTIME_STATE =
           ["axios", "npm:1.7.9"],\
           ["dompurify", "npm:3.2.3"],\
           ["eslint-config-react-app", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:7.0.1"],\
+          ["pretendard", "npm:1.3.9"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:19.0.0"],\
           ["react-icons", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:5.4.0"],\
@@ -12462,6 +12463,7 @@ const RAW_RUNTIME_STATE =
           ["axios", "npm:1.7.9"],\
           ["dompurify", "npm:3.2.3"],\
           ["eslint-config-react-app", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:7.0.1"],\
+          ["pretendard", "npm:1.3.9"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:19.0.0"],\
           ["react-icons", "virtual:3199c9b1314fe4b24a9db0bdc0984cf3bfab2e709fe731ce32a1c8090fd9e138d936aaddc2da2b4bc81e54e33fac1abc87a42671ef20cfb4e160d965a3adada1#npm:5.4.0"],\
@@ -15060,6 +15062,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../C:/Users/yuyu0/AppData/Local/Yarn/Berry/cache/prelude-ls-npm-1.2.1-3e4d272a55-10c0.zip/node_modules/prelude-ls/",\
         "packageDependencies": [\
           ["prelude-ls", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["pretendard", [\
+      ["npm:1.3.9", {\
+        "packageLocation": "../../../C:/Users/yuyu0/AppData/Local/Yarn/Berry/cache/pretendard-npm-1.3.9-760c0fa60e-10c0.zip/node_modules/pretendard/",\
+        "packageDependencies": [\
+          ["pretendard", "npm:1.3.9"]\
         ],\
         "linkType": "HARD"\
       }]\
