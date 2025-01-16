@@ -27,7 +27,7 @@ export default class Youtube{
             params: {
                 part:'snippet,contentDetails,statistics',
                 chart:'mostPopular',
-                regionCode:'kr',
+                regionCode:'au',
                 order:'date',
                 type:'video',
                 maxResults:25,
