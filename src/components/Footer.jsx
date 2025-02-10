@@ -20,14 +20,16 @@ export default function Footer() {
                 <div className="inner w-full py-3 lg:py-4 gap-1.5">
                     <div className="social-icons flex justify-start gap-2 mb-2">
                         <Link to="https://github.com/gloriaGwak" target="_blank" title='Go to new window' aria-label="Gloria`s GitHub">
-                            <FaGithub alt="Gloria's GitHub" className="w-6 h-6" />
+                            <FaGithub className="w-6 h-6" />
+                            <span className='blind'>Gloria's GitHub</span>
                         </Link>
                         <Link to="https://www.linkedin.com/in/gloria-gwak-803667236" target="_blank" title='Go to new window' aria-label="Gloria`s LinkedIn">
                             <FaLinkedin alt="Gloria's LinkedIn" className="w-6 h-6" />
+                            <span className='blind'>Gloria's LinkedIn</span>
                         </Link>
                     </div>
                     <p>Designed and developed by Gloria Gwak | Powered by YouTube API</p>
-                    <p>© 2024 Gloria Gwak. All Rights Reserved.</p>
+                    <p>© Gloria Gwak. All Rights Reserved.</p>
                 </div>
             </footer>
         </>
